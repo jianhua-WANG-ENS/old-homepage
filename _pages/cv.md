@@ -19,4 +19,4 @@ My CV can be downloaded here: <a href="https://Li-Jinjie.github.io/files/lijinji
 
 **Address**: BeiHang University, XueYuan Road No.37, HaiDian District, BeiJing, 100191, China
 
-**Email**: lijinjie [at] buaa.edu.cn, lijinjie362 [at] outlook.com
+**Email**: lijinjie@buaa.edu.cn, lijinjie362@outlook.com

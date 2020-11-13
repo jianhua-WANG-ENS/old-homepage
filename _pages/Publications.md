@@ -13,7 +13,7 @@ Duration: Nov. 2017 - Nov. 2018
 
 We participated in **the 28th "Feng Ru Cup" Competition of Academic and Technological Works**,  and won the second prize. Please watch this video or read the article below for more information.
 
-<iframe width="560" height="315" src="https://www.bilibili.com/video/BV19y4y1r7RZ/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.bilibili.com/video/BV19y4y1r7RZ/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 ## Division
 
