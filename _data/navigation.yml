@@ -1,0 +1,21 @@
+# main links links
+main:
+
+  - title: "Projects"
+    url: /Projects/    
+    
+  - title: "Assignments"
+    url: /Assignments/
+
+  - title: "Portfolio"
+    url: /portfolio/
+
+  - title: "CV&Contact"
+    url: /cv/
+        
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+    
+  
+    
+
