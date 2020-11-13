@@ -5,28 +5,24 @@ permalink: /Publications/
 author_profile: true
 ---
 
-## Journal 
+# Journal 
 
-> Time-varying formation of second-order discrete-time multi-agent systems under non-uniform communication delays and switching topology with application to UAV formation flying
+1. **Jianhua WANG**, Liang Han, Xiaoduo Li, Xiwang Dong, Qingdong Li, and Zhang Ren. 'Time-varying formation of second-order discrete-time multi-agent systems under non-uniform communication delays and switching topology with application to UAV formation flying' *IET Control Theory & Applications*, 14(14):1947–1956,2020. 
 
-Duration: Nov. 2017 - Nov. 2018
+    This video shows the multi-UAV system formation experiments 👇. 
 
-We participated in **the 28th "Feng Ru Cup" Competition of Academic and Technological Works**,  and won the second prize. Please watch this video or read the article below for more information.
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/GytboIQjqDg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Division
+2. **Jianhua WANG**, Liang Han, Xiwang Dong, Qingdong Li, and Zhang Ren. ' Distributed sliding mode control for time-varying formation tracking of multi-UAV system with a dynamic leader' * Aerospace Science and Technology*, 2020. Under major review. 
 
-Advisors: *Prof.* GUO Lei, *Dr.* ZHANG Xiao
+    This video shows the multi-UAV system formation simulation based on ROS-Gazebo platform 👇. 
 
-Circuit design and flight experiments: **LI Jinjie**, WANG Shanpeng
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/dHqNoYIUqD8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Programming and simulation: GUO Xiaoyu, HUANG Zhenhuan
+# Conference 
 
-Other work: ZHAO Xueyuan, ZHANG Ruijiang
+1. **Jianhua WANG**, Liang Han, Yilong Wen, Xiwang Dong, Qingdong Li, and Zhang Ren. 'Time-varying formation of double-integrator discrete-time multi-agent systems with switching topology and time-delay' *2019 Chinese Automation Congress (CAC)*, 3571–3576, 2019. 
 
-## Test
+2. **Jianhua WANG**, Liang Han, Xiwang Dong, Qingdong Li, and Zhang Ren. 'Bipartite antagonistic time-varying formation tracking for multi-agent system' *2019 Chinese Control Conference (CCC)*, 6118–6123, 2019. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dHqNoYIUqD8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----------
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U4IfWXl7zYE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
