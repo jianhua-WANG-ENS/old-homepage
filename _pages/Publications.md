@@ -7,7 +7,7 @@ author_profile: true
 
 # Journal 
 
-1. **Jianhua WANG**, Liang Han, Xiaoduo Li, Xiwang Dong, Qingdong Li, and Zhang Ren. 'Time-varying formation of second-order discrete-time multi-agent systems under non-uniform communication delays and switching topology with application to UAV formation flying' *IET Control Theory & Applications*, 14(14):1947–1956,2020. 
+1. **Jianhua WANG**, Liang Han, Xiaoduo Li, Xiwang Dong, Qingdong Li, and Zhang Ren. 'Time-varying formation of second-order discrete-time multi-agent systems under non-uniform communication delays and switching topology with application to UAV formation flying' *IET Control Theory & Applications*, 14(14):1947–1956,2020. [https://doi.org/10.1049/iet-cta.2020.0183](https://doi.org/10.1049/iet-cta.2020.0183)
 
     This video shows the multi-UAV system formation experiments 👇. 
 
@@ -21,8 +21,18 @@ author_profile: true
 
 # Conference 
 
-1. **Jianhua WANG**, Liang Han, Yilong Wen, Xiwang Dong, Qingdong Li, and Zhang Ren. 'Time-varying formation of double-integrator discrete-time multi-agent systems with switching topology and time-delay' *2019 Chinese Automation Congress (CAC)*, 3571–3576, 2019. 
+1. **Jianhua WANG**, Liang Han, Yilong Wen, Xiwang Dong, Qingdong Li, and Zhang Ren. 'Time-varying formation of double-integrator discrete-time multi-agent systems with switching topology and time-delay' *2019 Chinese Automation Congress (CAC)*, 3571–3576, 2019. [https://doi.org/10.1109/CAC48633.2019.8997391](https://doi.org/10.1109/CAC48633.2019.8997391)
 
-2. **Jianhua WANG**, Liang Han, Xiwang Dong, Qingdong Li, and Zhang Ren. 'Bipartite antagonistic time-varying formation tracking for multi-agent system' *2019 Chinese Control Conference (CCC)*, 6118–6123, 2019. 
+2. **Jianhua WANG**, Liang Han, Xiwang Dong, Qingdong Li, and Zhang Ren. 'Bipartite antagonistic time-varying formation tracking for multi-agent system' *2019 Chinese Control Conference (CCC)*, 6118–6123, 2019. [https://doi.org/10.23919/ChiCC.2019.8866328](https://doi.org/10.23919/ChiCC.2019.8866328)
+ 
+3. **Jianhua WANG**, Fei Liu, Liang Han, Xiwang Dong, Qingdong Li, and Zhang Ren. 'Formation tracking control for second-order nonlinear multi-agent system with unknown maneuvering leader' *2020 Chinese Automation Congress (CAC)*, 2020.
+
+4. **Jianhua WANG**, Feng Bao, Liang Han, Xiwang Dong, Qingdong Li, and Zhang Ren. 'Discrete sliding mode control for time-varying formation tracking of multi-UAV system with a dynamic leader' *2020 Chinese Automation Congress (CAC)*, 2020.
+
+# Patent
+
+1. A formation tracking control method based on discrete-time sliding mode control structure
+
+    Patent number: 202010419920.2 | Preliminary examination passed.
 
 
