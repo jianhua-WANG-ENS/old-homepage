@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "LI Jinjie"
+title                    : "WANG Jianhua"
 title_separator          : "-"
-name                     : &name "LI Jinjie"
-description              : &description "Undergraduate student at Beihang University"
-url                      : https://Li-Jinjie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "WANG Jianhua"
+description              : &description "Postgraduate student at Beihang University"
+url                      : https://jianhua-WANG-BUAA.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Li-Jinjie/Li-Jinjie.github.io"
+repository               : "jianhua-WANG-BUAA/jianhua-WANG-BUAA.github.io"
 
 teaser                   :  # 悬挂式广告？搞不清干嘛的 filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default) 加了会有个路径栏，丑
@@ -82,14 +82,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "LI Jinjie"
+  name             : "WANG Jianhua"
   avatar           : "Lijinjie.png"
   bio              : "An Undergraduate Student, Automation, Shenyuan Honors College, Beihang University"
   location         : "Beijing, China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "lijinjie362@outlook.com"
+  email            : "jianhuawang@buaa.edu.cn"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Li-Jinjie"
+  github           : "jianhua-WANG-BUAA"
   google_plus      :
   keybase          :
   instagram        :
