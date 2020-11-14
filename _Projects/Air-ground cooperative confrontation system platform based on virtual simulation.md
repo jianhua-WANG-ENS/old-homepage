@@ -14,7 +14,8 @@ tags:
 Duration: Jun. 2019 - Dec. 2019
 
 1. Design of UAV/UGV air-ground cooperative countermeasure demonstration algorithms.
-2. Construction of a virtual coordinated combat scenario based on Gazebo simulator.	3. Development and redaction of Matlab/Python control API demos.
+2. Construction of a virtual coordinated combat scenario based on Gazebo simulator.
+3. Development and redaction of Matlab/Python control API demos.
 
 <img src="https://s2.ax1x.com/2019/11/26/MzsSAO.png" alt="MzsSAO.png" border="0" />
 
