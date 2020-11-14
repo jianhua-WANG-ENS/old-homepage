@@ -1,9 +1,9 @@
 ---
-title: "Designing and Optimization of Heavy Load and High Maneuverability Aircrafts (Composite material part)"
-permalink: /Projects/Composite_material/
-excerpt: 👍👍 We won the **1st, 2nd, and 3rd** place of the Time-limited Airdrop project in 2018 China Aeromodelling Design Challenge.  **Lead researcher and engineer of composite material team**. <br/> <a href="https://lijinjie.top/Projects/Composite_material/"><img src="https://s2.ax1x.com/2019/10/09/u57nlF.jpg" alt="u57nlF.jpg" border="0" width="500" /></a>
+title: "Air-ground cooperative confrontation system platform based on virtual simulation"
+permalink: /Projects/air-ground-confrontation-platform/
+excerpt: Cooperative with China Aerospace Science & Industry Corporation. <br/> <a href="jianhua-WANG-BUAA.github.io/Projects/air-ground-confrontation-platform/"><img src="https://s2.ax1x.com/2019/10/09/u57nlF.jpg" alt="u57nlF.jpg" border="0" width="500" /></a>
 collection: Projects
-date: 2018-10-10
+date: 2019-12-10
 tags:
   - projects
   - CADC
@@ -11,7 +11,10 @@ tags:
 
 ## Overview
 
-Duration: Jul. 2017 - Oct. 2018
+Duration: Jun. 2019 - Dec. 2019
+
+1. Design of UAV/UGV air-ground cooperative countermeasure demonstration algorithms.
+2. Construction of a virtual coordinated combat scenario based on Gazebo simulator.	3. Development and redaction of Matlab/Python control API demos.
 
 <img src="https://s2.ax1x.com/2019/11/26/MzsSAO.png" alt="MzsSAO.png" border="0" />
 

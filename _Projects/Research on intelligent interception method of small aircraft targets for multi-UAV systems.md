@@ -1,12 +1,16 @@
 ---
-title: "A New Type of Bionic Autonomous Integrated Navigation System"
-permalink: /Projects/Navigation_System/
-excerpt: 👍 We won **the Second Prize** in the 28th "Feng Ru Cup" Competition of Academic and Technological Works! <br/> <a href="https://lijinjie.top/Projects/Navigation_System/"><img src="https://s2.ax1x.com/2019/10/07/uRR5uD.png" alt="uRR5uD.png" border="0" width="500"/></a>
+title: "Research on intelligent interception method of small aircraft targets for multi-UAV systems"
+permalink: /Projects/small-aircraft/
+excerpt: Application for Beijing Natural Science Foundation. <br/> <a href="https://jianhua-WANG-BUAA.github.io/Projects/small-aircraft/"><img src="https://s2.ax1x.com/2019/10/07/uRR5uD.png" alt="uRR5uD.png" border="0" width="500"/></a>
 collection: Projects
-date: 2018-11-05
+date: 2020-06-05
 tags:
   - projects
 ---
+
+1. Redaction of fund project application.
+2. Design of coordinated interception methods for multiple UAVs based on space-time coverage.
+3. Construction of a multi-UAV collaborative intercept application demonstration platform.
 
 ## Overview
 
