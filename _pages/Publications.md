@@ -5,7 +5,7 @@ permalink: /Publications/
 author_profile: true
 ---
 
-# Journal 
+## Journal 
 
 1. **Jianhua WANG**, Liang Han, Xiaoduo Li, Xiwang Dong, Qingdong Li, and Zhang Ren. 'Time-varying formation of second-order discrete-time multi-agent systems under non-uniform communication delays and switching topology with application to UAV formation flying' *IET Control Theory & Applications*, 14(14):1947–1956,2020. [https://doi.org/10.1049/iet-cta.2020.0183](https://doi.org/10.1049/iet-cta.2020.0183)
 
@@ -19,7 +19,7 @@ author_profile: true
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/dHqNoYIUqD8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Conference 
+## Conference 
 
 1. **Jianhua WANG**, Liang Han, Yilong Wen, Xiwang Dong, Qingdong Li, and Zhang Ren. 'Time-varying formation of double-integrator discrete-time multi-agent systems with switching topology and time-delay' *2019 Chinese Automation Congress (CAC)*, 3571–3576, 2019. [https://doi.org/10.1109/CAC48633.2019.8997391](https://doi.org/10.1109/CAC48633.2019.8997391)
 
@@ -33,7 +33,7 @@ author_profile: true
 
     <!-- <img src="https://jianhua-WANG-BUAA.github.io/images/CAC2020-dynamic-Leader-poster.jpg" alt="CAC2020-dynamic-Leader-poster.jpg" border="0"/> -->
 
-# Patent
+## Patent
 
 1. A formation tracking control method based on discrete-time sliding mode control structure
 
