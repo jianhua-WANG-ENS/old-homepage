@@ -13,7 +13,11 @@ author_profile: true
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/GytboIQjqDg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-2. **Jianhua WANG**, Liang Han, Xiwang Dong, Qingdong Li, and Zhang Ren. ' Distributed sliding mode control for time-varying formation tracking of multi-UAV system with a dynamic leader' * Aerospace Science and Technology*, 2020. Under major review. 
+    ----------------
+
+    <iframe width="560" height="315" src="https://player.bilibili.com/player.html?aid=88058644&bvid=BV1E7411t7MU&cid=150593172&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+2. **Jianhua WANG**, Liang Han, Xiwang Dong, Qingdong Li, and Zhang Ren. ' Distributed sliding mode control for time-varying formation tracking of multi-UAV system with a dynamic leader' *Aerospace Science and Technology*, 2020. Under major review. 
 
     This video shows the multi-UAV system formation simulation based on ROS-Gazebo platform 👇. 
 
@@ -28,6 +32,8 @@ author_profile: true
 3. **Jianhua WANG**, Fei Liu, Liang Han, Xiwang Dong, Qingdong Li, and Zhang Ren. 'Formation tracking control for second-order nonlinear multi-agent system with unknown maneuvering leader' *2020 Chinese Automation Congress (CAC)*, 2020.
 
 4. **Jianhua WANG**, Feng Bao, Liang Han, Xiwang Dong, Qingdong Li, and Zhang Ren. 'Discrete sliding mode control for time-varying formation tracking of multi-UAV system with a dynamic leader' *2020 Chinese Automation Congress (CAC)*, 2020.
+
+    <img src="https://s2.ax1x.com/2019/10/10/uTXV2R.png" alt="uTXV2R.png" border="0"/>
 
 # Patent
 
