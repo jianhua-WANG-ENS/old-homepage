@@ -1,7 +1,7 @@
 ---
 title: "Research on multi-UAV formation tracking control technologies and applications"
 permalink: /Projects/NNSFC/
-excerpt: The project is supported by National Natural Science Foundation of China. <br/> <a href="https://jianhua-WANG-BUAA.github.io/Projects/NNSFC/"><img src="https://s2.ax1x.com/2019/10/16/KkV8gA.jpg" alt="KkV8gA.jpg" border="0" width="500" /></a>
+excerpt: The project is supported by National Natural Science Foundation of China. <br/> <a href="https://jianhua-WANG-BUAA.github.io/Projects/NNSFC/"><img src="https://jianhua-WANG-BUAA.github.io/images/ARdrone-3-formation.png" alt="ARdrone-3-formation.png" border="0" width="500" /></a>
 collection: Projects
 date: 2020-06-01
 tags:

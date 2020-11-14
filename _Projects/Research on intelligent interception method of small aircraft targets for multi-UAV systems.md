@@ -1,7 +1,7 @@
 ---
 title: "Research on intelligent interception method of small aircraft targets for multi-UAV systems"
 permalink: /Projects/small-aircraft/
-excerpt: Application for Beijing Natural Science Foundation. <br/> <a href="https://jianhua-WANG-BUAA.github.io/Projects/small-aircraft/"><img src="https://s2.ax1x.com/2019/10/07/uRR5uD.png" alt="uRR5uD.png" border="0" width="500"/></a>
+excerpt: Application for Beijing Natural Science Foundation. <br/> <a href="https://jianhua-WANG-BUAA.github.io/Projects/small-aircraft/"><img src="https://jianhua-WANG-BUAA.github.io/images/small-aircraft-interception.jpg" alt="small-aircraft-interception.jpg" border="0" width="500"/></a>
 collection: Projects
 date: 2020-06-05
 tags:

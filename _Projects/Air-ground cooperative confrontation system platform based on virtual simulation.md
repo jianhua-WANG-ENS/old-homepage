@@ -1,7 +1,7 @@
 ---
 title: "Air-ground cooperative confrontation system platform based on virtual simulation"
 permalink: /Projects/air-ground-confrontation-platform/
-excerpt: Cooperative with China Aerospace Science & Industry Corporation. <br/> <a href="jianhua-WANG-BUAA.github.io/Projects/air-ground-confrontation-platform/"><img src="https://s2.ax1x.com/2019/10/09/u57nlF.jpg" alt="u57nlF.jpg" border="0" width="500" /></a>
+excerpt: Cooperative with China Aerospace Science & Industry Corporation. <br/> <a href="https://jianhua-WANG-BUAA.github.io/Projects/air-ground-confrontation-platform/"><img src="https://jianhua-WANG-BUAA.github.io/images/air-ground-confrontation-platform.png" alt="air-ground-confrontation-platform.png" border="0" width="500" /></a>
 collection: Projects
 date: 2019-12-10
 tags:
