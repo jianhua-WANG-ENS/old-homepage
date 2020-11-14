@@ -3,7 +3,7 @@ title: "Research on multi-UAV formation tracking control technologies and applic
 permalink: /Projects/DTAB/
 excerpt: The project is supported by National Natural Science Foundation of China <br/> <a href="https://jianhua-WANG-BUAA.github.io/Projects/DTAB/"><img src="https://s2.ax1x.com/2019/10/16/KkV8gA.jpg" alt="KkV8gA.jpg" border="0" width="500" /></a>
 collection: Projects
-date: 2020-06
+date: 2020-06-01
 tags:
   - projects
 ---
