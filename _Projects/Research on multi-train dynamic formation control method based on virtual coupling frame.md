@@ -20,7 +20,7 @@ Duration: Nov. 2018 - Jun. 2020
 
 As the central nerve of the capital's transportation network, urban rail transit plays an important role in supporting the economic development of the capital. In order to further improve the service quality of the capital's urban rail transit and give full play to the advantages of multi-train coordinated operation, it is proposed to adopt multi-train formation control technology to ensure the efficient and orderly execution of tasks by multiple trains. Multiple trains dynamically adjust the relative distance between them through virtual linkage. On the basis of ensuring the safety of multiple trains, it also improves the efficiency of coordinated operation of multiple trains and avoids the physical linkage between traditional multiple trains. , Centralized scheduling control and other issues.
 
-## Main work
+## Research content
 
 <!-- 本项目拟研究基于虚拟连挂的多列车动态编队控制方法。首先，研究多列车分布式协同系统建模问题，提出基于虚拟连挂的多列车动态编队策略，设计多列车动态编队控制器构型。其次，研究时变编队、切换拓扑、有限时间等约束对动态编队控制的影响，给出在多约束条件下实现多列车动态编队控制的判据。最后，基于自主研发的集群实验平台开展实物验证，通过动态编队控制实验对相关算法进行验证与评估。 -->
 
