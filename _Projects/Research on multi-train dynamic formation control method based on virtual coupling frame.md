@@ -1,7 +1,7 @@
 ---
 title: "Research on multi-train dynamic formation control method based on virtual coupling frame"
 permalink: /Projects/multi-train/
-excerpt: (Cooperation with Traffic Control Technology Co., Ltd) <br> Supported by Beijing Natural Science Foundation. <br/> <a href="https://jianhua-WANG-BUAA.github.io/Projects/multi-train/"><img src="https://s2.ax1x.com/2019/10/16/KkV33d.jpg" alt="KkV33d.jpg" border="0" width="500" /></a>
+excerpt: (Cooperation with Traffic Control Technology Co., Ltd) <br/> Supported by Beijing Natural Science Foundation. <br/> <a href="https://jianhua-WANG-BUAA.github.io/Projects/multi-train/"><img src="https://s2.ax1x.com/2019/10/16/KkV33d.jpg" alt="KkV33d.jpg" border="0" width="500" /></a>
 collection: Projects
 date: 2020-06-05
 tags:
