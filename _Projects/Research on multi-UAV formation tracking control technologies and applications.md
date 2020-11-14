@@ -8,13 +8,9 @@ tags:
   - projects
 ---
 
-## Overview
-
 Duration：Oct. 2017 - Jun. 2020
 
-Advisor：Liang HAN
-
-This is my internship project, which aims to detect intrusion, line- crossing, running and falling behaviors automatically in surveillance videos through deep learning algorithms. Through this project, I am trying to reach the following learning objectives:
+*Keywords*: Multi-UAV systems, Time-varying formation, Formation tracking, Gazebo, Cooperative experiment 
 
 ## Background
 

@@ -12,7 +12,7 @@ tags:
 
 Duration: Nov. 2018 - Jun. 2020
 
-*Keywords*: Multi-train systems, Formation control, Cooperative experiment, Time-varying formation
+*Keywords*: Multi-train systems, Time-varying formation, Cooperative experiment, Lego EV3
 
 ## Background
 
