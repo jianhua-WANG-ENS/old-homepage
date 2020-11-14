@@ -1,7 +1,10 @@
 ---
 title: "Research on multi-train dynamic formation control method based on virtual coupling frame"
 permalink: /Projects/multi-train/
-excerpt: (*Cooperation with Traffic Control Technology Co., Ltd*) <br/> Supported by Beijing Natural Science Foundation. <br/> <a href="https://jianhua-WANG-BUAA.github.io/Projects/multi-train/"><img src="https://jianhua-WANG-BUAA.github.io/images/multi-train-lego-experiment.png" alt="multi-train-lego-experiment.png" border="0" width="500" /></a>
+excerpt: (*Cooperation with Traffic Control Technology Co., Ltd*) <br/> 
+Supported by Beijing Natural Science Foundation. <br/> 
+Keywords - Multi-train systems, Formation control, Cooperative experiment, Time-varying formation <br/> 
+<a href="https://jianhua-WANG-BUAA.github.io/Projects/multi-train/"><img src="https://jianhua-WANG-BUAA.github.io/images/multi-train-lego-experiment.png" alt="multi-train-lego-experiment.png" border="0" width="500" /></a>
 collection: Projects
 date: 2020-06-05
 tags:
@@ -12,60 +15,36 @@ tags:
 
 Duration: Nov. 2018 - Jun. 2020
 
-本课题以城市轨道交通协同化运营为背景，针对轨道列车运营场景与特点，结合课题组在协同控制技术领域的研究，重点研究多列车分布式协同系统建模，基于虚拟连挂的多列车动态编队控制，基于有限时间的多列车快速编队控制等科学问题，并对所提出的协同控制方法进行仿真验证，解决多列车协同化运营中的关键技术，研究成果将为城市轨道交通运营协同化及智能化提供技术支撑。
+Keywords: Multi-train systems, Formation control, Cooperative experiment, Time-varying formation
 
-This subject is based on the collaborative operation of urban rail transit, based on the operating scenarios and characteristics of rail trains, combined with the research team’s research in the field of collaborative control technology, focusing on the modeling of multi-train distributed collaborative systems, and the dynamics of multiple trains based on virtual linkage Formation control, based on scientific issues such as rapid formation control of multiple trains in a limited time, and simulation verification of the proposed collaborative control method to solve the key technology in the collaborative operation of multiple trains. Intelligent provide technical support.
+## Background
+
+<!-- 城市轨道交通作为首都交通网络的中枢神经，对首都经济发展起着重要支撑作用。为进一步提高首都城市轨道交通服务质量，充分发挥多列车协同化运营优势，拟采用多列车编队控制技术来保障多列车高效有序地执行任务。多列车通过虚拟连挂的方式来动态调整它们之间的相对距离，在保证多列车之间安全性的基础上，同时提高了多列车协同运营的效率，避免了传统多列车之间物理连挂，集中式调度控制等问题。 -->
+
+As the central nerve of the capital's transportation network, urban rail transit plays an important role in supporting the economic development of the capital. In order to further improve the service quality of the capital's urban rail transit and give full play to the advantages of multi-train coordinated operation, it is proposed to adopt multi-train formation control technology to ensure the efficient and orderly execution of tasks by multiple trains. Multiple trains dynamically adjust the relative distance between them through virtual linkage. On the basis of ensuring the safety of multiple trains, it also improves the efficiency of coordinated operation of multiple trains and avoids the physical linkage between traditional multiple trains. , Centralized scheduling control and other issues.
+
+## Main work
+
+<!-- 本项目拟研究基于虚拟连挂的多列车动态编队控制方法。首先，研究多列车分布式协同系统建模问题，提出基于虚拟连挂的多列车动态编队策略，设计多列车动态编队控制器构型。其次，研究时变编队、切换拓扑、有限时间等约束对动态编队控制的影响，给出在多约束条件下实现多列车动态编队控制的判据。最后，基于自主研发的集群实验平台开展实物验证，通过动态编队控制实验对相关算法进行验证与评估。 -->
+
+This project intends to study the dynamic formation control method of multiple trains based on virtual connection. First of all, the modeling problem of multi-train distributed cooperative system is studied, the multi-train dynamic formation strategy based on virtual connection is proposed, and the configuration of multi-train dynamic formation controller is designed. Secondly, the influence of constraints such as time-varying formation, switching topology, and finite time on dynamic formation control is studied, and criteria for realizing multi-train dynamic formation control under multiple constraints are given. Finally, physical verification is carried out based on the self-developed cluster experimental platform, and related algorithms are verified and evaluated through dynamic formation control experiments.
 
 ## My work
 
-Design and manufacture a constant temperature control system that can be set to a specific temperature:
+In this project, my work mainly includes the following three parts:
 
-1. Redaction of fund project application.
-2. Design of multi-train formation tracking control protocols under multiple constraints like switching topologies and time-delays.
-3. Construction of a multi-train formation demonstration platform based on Lego EV3.
+1. I have participated in redacting the project application in the early stage.
+2. I have designed the multi-train formation tracking control protocols under multiple constraints like switching topologies and time-delays.
+3. I was responsible for constructing a multi-train formation demonstration platform based on Lego EV3.
 
 ## Achievements
 
-We shot this video to present the functions. Enjoy！😃
+<!-- 四辆乐高小车在有岔路的情况下的编队实验视频如下图。 -->
+
+The video of the formation experiment of four Lego EV3 trains with a fork in the road is shown below. Enjoy！😃
 
 <iframe width="908" height="511" src="https://www.youtube.com/embed/2ZQEtcWF97I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-## Division
 
-**LI Jinjie (Team leader) :** 
-
-Designed, simulated, and tested the MCU and the analog PID control circuits; measured the PID parameters; drew the PCB board; **programmed** the MCU to drive the whole system; designed and manufactured the tank; prepared for the defense.
-
-**LEI Tongtong :**
-
-Designed, simulated, and tested the temperature measurement, button, display, and PWM circuits; ensured calibration of temperature measurement; soldered circuit boards; selected and purchased come components.
-
-**ZHAO Qian :**
-
-Designed, simulated, and tested the power supply and the relay drive circuits; selected and purchased the heating and cooling modules; drew the PCB boards; manufactured the entire system.
-
-**YANG Manxin :**
-
-Programmed an Android app and a WeChat Mini Program; soldered circuit boards; tested the display circuit; measured the PID parameters; designed and manufactured the tank; prepared for the defense.
-
-**Instructor :** *Associate professor* TANG Yao
-
-## Our plan
-
-<img src="https://s2.ax1x.com/2019/08/04/e6qzKx.png" alt="e6qzKx.png" border="0"/>
-
-The target temperature can be set using **an Android cellphone** or using **buttons**. There are three buttons on the top of our tank: 'SET', 'UP' and 'DOWN'. To set the temperature, press the 'SET' button, and the digital tube will flicker and display the target temperature. Continue to press the 'SET' key to select the digit, and adjust values through the 'UP' and 'DOWN' keys. After selecting the temperature and stopping operation for three seconds, the digital tube will display the current temperature and the device will warm up or cool down to the target temperature. 
-
-Internal size: `300*200*150mm`
-
-Accuracy: `< ±2℃` (Depending on the environment and how much water is loaded)
-
-Adjustment time: `Approximately 5min` (Depending on the environment and how much water is loaded)
-
-Simulation: `Multism`
-
-PCB design: `Altium designer`
-
-MCU program: `STM32CubeMX`, `Keil 5`    👉See the program [here](https://github.com/Li-Jinjie/Design-of-Settable-Constant-Temperature-Controller/tree/master).
 
 ### Implementation
 
@@ -82,74 +61,6 @@ MCU program: `STM32CubeMX`, `Keil 5`    👉See the program [here](https://githu
 
    According to our design requirements, we chose STM32ZET6 core board as our MCU.
 
-   In this course, the proportion of analog circuits is a scoring factor, so we used an analog PID circuit for temperature control, as the following pictures shows.
-
-   | <img src="https://s2.ax1x.com/2019/08/04/e6LERA.png" alt="e6LERA.png" border="0" /> |
-   | ------------------------------------------------------------ |
-   | <img src="https://s2.ax1x.com/2019/08/04/e6LWdO.png" alt="e6LWdO.png" border="0" /> |
-
-   Initially, we did not design a **limiting circuit** for the integral circuits, which had terrible consequences in practical application. The maximum voltage of OP07 is ±10V. So if not design a limiter, the voltage of the integrated circuit will increase to 10V at the beginning of heating, which is much larger than the ADC range (0-3.3V). 
-
-   The PID value can be changed by adjusting the potentiometers.
-
-2. **Temperature measurement circuit**
-
-   Pt resistance (Pt 100) was selected to measure the temperature. Pt 100 can convert
-   the temperature signal into an analog voltage signal. And then through A/D
-   conversion, the analog signal can be converted into a digital signal which can be processed by the MCU.
-
-   <img src="https://s2.ax1x.com/2019/08/04/e6LfoD.png" alt="e6LfoD.png" border="0" />
-
-   We used a DS18B20 component as standard to calibrate Pt resistance. The calibration curve is as follows:
-
-   <img src="https://s2.ax1x.com/2019/08/04/e6LbOP.png" alt="e6LbOP.png" border="0" height="350" style="float:middle"/>
-
-   Therefore, `T = 72.643×U-19.723`
-
-3. **Display and buttons circuits**
-
-   Choose 74LS139D as a decoder, and four seven-segment digital tubes to show the temperature `XXX.X`. 
-
-   | Display                                                      | Buttons                                                      |
-   | ------------------------------------------------------------ | ------------------------------------------------------------ |
-   | <img src="https://s2.ax1x.com/2019/08/04/e6LXTS.png" alt="e6LXTS.png" border="0" /> | <img src="https://s2.ax1x.com/2019/08/04/e6LVxI.png" alt="e6LVxI.png" border="0" /> |
-
-4. **Power circuit**
-
-   The power supply needs to convert 220V 50Hz AC power into ±12V to supply operation amplifiers, into + 12V to the cooling module, and + 5V to the control circuit.
-
-   <img src="https://s2.ax1x.com/2019/08/04/e6LvFg.png" alt="e6LvFg.png" border="0" />
-
-5. **Bluetooth and APP**
-
-   We selected the HC-08 module, which adopts the serial communication protocol and BLE4.0 to support Android and iOS system.
-
-   We used Android Studio to develop an Android App. We used the built-in Bluetooth API to connect the App with the HC-08 module. We completed the function of displaying and controlling the temperature on the cellphone.
-
-6. **Healing module**
-
-   We used a 220V, 600W heating plate to heat the tank. The heating plate was pasted at the bottom to increase the contact area between the heater and the system and make the heating more uniform. After testing, the heating efficiency was 2 ℃/min.
-
-   PID control method needs to adjust the power of the heating plate. We connected the relay to the heating circuit and controlled the relay's switching-on and off by generating PWM wave (5V) through the 555 timer circuit. By changing the duty cycle of the PWM wave, the power of the heating plate can be changed.
-
-   <img src="https://s2.ax1x.com/2019/08/04/e6LzWj.png" alt="e6LzWj.png" border="0" />
-
-7. **Cooling module**
-
-   To cool water quickly, we designed a refrigeration module to speed up the heat dissipation of the system. At first, we used 12V 140W 1275 semiconductor chiller. After testing, we found the cooling effect to be ineffective. Later, we used two fans instead to accelerate the heat dissipation, which significantly accelerated the cooling speed.
-
-8. **PCB boards**
-
-   We drew two 10cm*10cm PCB boards to actuate the whole circuits and connect the two boards with an MCU board. The PCB boards are as follows and you can download them from [here](https://github.com/Li-Jinjie/Design-of-Settable-Constant-Temperature-Controller/tree/master/PCB%20Board).	
-
-   |                            PCB_1                             |                            PCB_2                             |
-   | :----------------------------------------------------------: | :----------------------------------------------------------: |
-   | <img src="https://s2.ax1x.com/2019/08/04/e6O9ln.png" alt="e6O9ln.png" border="0" height="380" width="380" /> | <img src="https://s2.ax1x.com/2019/08/04/e6OATU.png" alt="e6OATU.png" border="0" height="380" width="380" /> |
-
-9. **Structure**
-
-    <img src="https://s2.ax1x.com/2019/10/16/KkVKAO.jpg" alt="KkVKAO.jpg" border="0" />
-
 ### Process Recording
 
 | Stage 1                                                      | Stage 2                                                      |
@@ -163,13 +74,3 @@ MCU program: `STM32CubeMX`, `Keil 5`    👉See the program [here](https://githu
 <a href="https://github.com/Li-Jinjie/Design-of-Settable-Constant-Temperature-Controller" target="_blank">Program</a>
 
 <a href="https://github.com/Li-Jinjie/Design-of-Settable-Constant-Temperature-Controller/PCB Board/" target="_blank">PCB boards</a>
-
-Files: 
-
-<a href="http://Li-jinjie.github.io/files/Temperature controller/Opening_reports.pdf" target="_blank">Opening report (Chinese)</a>
-
-<a href="http://Li-jinjie.github.io/files/Temperature controller/Interim_report.pdf" target="_blank">Interim Report (Chinese)</a>
-
-<a href="http://Li-jinjie.github.io/files/Temperature controller/Final_report.pdf" target="_blank">Final Report (Only my part, Chinese)</a>
-
-<a href="http://Li-jinjie.github.io/files/Temperature controller/PPT1.pdf" target="_blank">PPT (Interim version)</a>
