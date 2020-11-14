@@ -15,7 +15,7 @@ author_profile: true
 
     ----------------
 
-    <iframe width="560" height="315" src="https://player.bilibili.com/player.html?aid=88058644&bvid=BV1E7411t7MU&cid=150593172&page=1&high_quality=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="1120" height="630" src="https://player.bilibili.com/player.html?aid=88058644&bvid=BV1E7411t7MU&cid=150593172&page=1&high_quality=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 2. **Jianhua WANG**, Liang Han, Xiwang Dong, Qingdong Li, and Zhang Ren. ' Distributed sliding mode control for time-varying formation tracking of multi-UAV system with a dynamic leader' *Aerospace Science and Technology*, 2020. Under major review. 
 
