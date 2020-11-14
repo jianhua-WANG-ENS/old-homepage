@@ -1,10 +1,7 @@
 ---
 title: "Research on multi-train dynamic formation control method based on virtual coupling frame"
 permalink: /Projects/multi-train/
-excerpt: (*Cooperation with Traffic Control Technology Co., Ltd*) <br/> 
-Supported by Beijing Natural Science Foundation. <br/> 
-Keywords - Multi-train systems, Formation control, Cooperative experiment, Time-varying formation <br/> 
-<a href="https://jianhua-WANG-BUAA.github.io/Projects/multi-train/"><img src="https://jianhua-WANG-BUAA.github.io/images/multi-train-lego-experiment.png" alt="multi-train-lego-experiment.png" border="0" width="500" /></a>
+excerpt: (*Cooperation with Traffic Control Technology Co., Ltd*) <br/> Supported by Beijing Natural Science Foundation. <br/> Keywords - Multi-train systems, Formation control, Cooperative experiment, Time-varying formation <br/> <a href="https://jianhua-WANG-BUAA.github.io/Projects/multi-train/"><img src="https://jianhua-WANG-BUAA.github.io/images/multi-train-lego-experiment.png" alt="multi-train-lego-experiment.png" border="0" width="500" /></a>
 collection: Projects
 date: 2020-06-05
 tags:
