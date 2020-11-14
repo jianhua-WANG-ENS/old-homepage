@@ -12,6 +12,12 @@ tags:
 
 Duration: Nov. 2018 - Jun. 2020
 
+本课题以城市轨道交通协同化运营为背景，针对轨道列车运营场景与特点，结合课题组在协同控制技术领域的研究，重点研究多列车分布式协同系统建模，基于虚拟连挂的多列车动态编队控制，基于有限时间的多列车快速编队控制等科学问题，并对所提出的协同控制方法进行仿真验证，解决多列车协同化运营中的关键技术，研究成果将为城市轨道交通运营协同化及智能化提供技术支撑。
+
+This subject is based on the collaborative operation of urban rail transit, based on the operating scenarios and characteristics of rail trains, combined with the research team’s research in the field of collaborative control technology, focusing on the modeling of multi-train distributed collaborative systems, and the dynamics of multiple trains based on virtual linkage Formation control, based on scientific issues such as rapid formation control of multiple trains in a limited time, and simulation verification of the proposed collaborative control method to solve the key technology in the collaborative operation of multiple trains. Intelligent provide technical support.
+
+## My work
+
 Design and manufacture a constant temperature control system that can be set to a specific temperature:
 
 1. Redaction of fund project application.
