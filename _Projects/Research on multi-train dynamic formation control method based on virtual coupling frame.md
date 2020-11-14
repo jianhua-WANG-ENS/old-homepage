@@ -2,17 +2,17 @@
 title: "Research on multi-train dynamic formation control method based on virtual coupling frame"
 permalink: /Projects/multi-train/
 excerpt: (*Cooperation with Traffic Control Technology Co., Ltd*) <br/> Supported by Beijing Natural Science Foundation. <br/> <a href="https://jianhua-WANG-BUAA.github.io/Projects/multi-train/"><img src="https://jianhua-WANG-BUAA.github.io/images/multi-train-lego-experiment.png" alt="multi-train-lego-experiment.png" border="0" width="500" /></a>
+
 collection: Projects
 date: 2020-06-05
 tags:
   - projects
 ---
 
-## Overview
 
 Duration: Nov. 2018 - Jun. 2020
 
-Keywords: Multi-train systems, Formation control, Cooperative experiment, Time-varying formation
+*Keywords*: Multi-train systems, Formation control, Cooperative experiment, Time-varying formation
 
 ## Background
 
@@ -42,32 +42,3 @@ The video of the formation experiment of four Lego EV3 trains with a fork in the
 
 <iframe width="908" height="511" src="https://www.youtube.com/embed/2ZQEtcWF97I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-### Implementation
-
-1. **MCU & PID control system**
-
-   |         Function          |  Name   | Number |
-   | :-----------------------: | :-----: | :----: |
-   |      Display circuit      |   IO    |   7    |
-   |      Button circuit       |   IO    |   3    |
-   |  Temperature measurement  |   ADC   |   2    |
-   |          DS18B20          |   IO    |   1    |
-   | PWM wave generate circuit |   IO    |   4    |
-   |        PID circuit        | DAC/ADC |  2/1   |
-
-   According to our design requirements, we chose STM32ZET6 core board as our MCU.
-
-### Process Recording
-
-| Stage 1                                                      | Stage 2                                                      |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="https://s2.ax1x.com/2019/10/16/KkVtDP.jpg" alt="KkVtDP.jpg" border="0" width="400" /> | <img src="https://s2.ax1x.com/2019/08/04/e6O4BV.jpg" alt="e6O4BV.jpg" border="0" width="400" /> |
-| **Stage 3**                                                  | **Stage 4**                                                  |
-| <img src="https://s2.ax1x.com/2019/08/04/e6OOj1.jpg" alt="e6OOj1.jpg" border="0" width="400" /> | <img src="https://s2.ax1x.com/2019/08/04/e6Ojnx.jpg" alt="e6Ojnx.jpg" border="0" width="400" /> |
-
-## Downloads
-
-<a href="https://github.com/Li-Jinjie/Design-of-Settable-Constant-Temperature-Controller" target="_blank">Program</a>
-
-<a href="https://github.com/Li-Jinjie/Design-of-Settable-Constant-Temperature-Controller/PCB Board/" target="_blank">PCB boards</a>
