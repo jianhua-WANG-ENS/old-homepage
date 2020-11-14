@@ -12,11 +12,13 @@ tags:
 
 Duration: Nov. 2018 - Jun. 2020
 
-<body>
+***Keywords***: *Multi-train systems, Time-varying formation, Cooperative experiment, Lego EV3*
+
+<!-- <body>
   <p style="color:rgb(51, 156, 255);">
    ***Keywords***: *Multi-train systems, Time-varying formation, Cooperative experiment, Lego EV3*
    </p>
-</body>
+</body> -->
 
 
 ## Background
@@ -29,13 +31,16 @@ As the central nerve of the capital's transportation network, urban rail transit
 
 <!-- 本项目拟研究基于虚拟连挂的多列车动态编队控制方法。首先，研究多列车分布式协同系统建模问题，提出基于虚拟连挂的多列车动态编队策略，设计多列车动态编队控制器构型。其次，研究时变编队、切换拓扑、有限时间等约束对动态编队控制的影响，给出在多约束条件下实现多列车动态编队控制的判据。最后，基于自主研发的集群实验平台开展实物验证，通过动态编队控制实验对相关算法进行验证与评估。 -->
 
+<p style="text-align:justify; text-justify:inter-ideograph;>
 This project intends to study the dynamic formation control method of multiple trains based on virtual connection. First of all, the modeling problem of multi-train distributed cooperative system is studied, the multi-train dynamic formation strategy based on virtual connection is proposed, and the configuration of multi-train dynamic formation controller is designed. Secondly, the influence of constraints such as time-varying formation, switching topology, and finite time on dynamic formation control is studied, and criteria for realizing multi-train dynamic formation control under multiple constraints are given. Finally, physical verification is carried out based on the self-developed cluster experimental platform, and related algorithms are verified and evaluated through dynamic formation control experiments.
+</p>
+
 
 ## My work
 
 In this project, my work mainly includes the following three parts:
 
-1. I have participated in redacting the project application in the early stage.
+1. I have participated in the redaction of the project application in the early stage.
 2. I have designed the multi-train formation tracking control protocols under multiple constraints like switching topologies and time-delays.
 3. I was responsible for constructing a multi-train formation demonstration platform based on Lego EV3.
 
