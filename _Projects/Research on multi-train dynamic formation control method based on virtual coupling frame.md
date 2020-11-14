@@ -1,23 +1,22 @@
 ---
-title: "Development of a Settable Constant Temperature Controller"
-permalink: /Projects/Temperature_Controller/
-excerpt: 👍 My **first** electrical project ! <br/> <a href="https://lijinjie.top/Projects/Temperature_Controller/"><img src="https://s2.ax1x.com/2019/10/16/KkV33d.jpg" alt="KkV33d.jpg" border="0" width="500" /></a>
+title: "Research on multi-train dynamic formation control method based on virtual coupling frame"
+permalink: /Projects/multi-train/
+excerpt: (Cooperation with Traffic Control Technology Co., Ltd) Supported by Beijing Natural Science Foundation. <br/> <a href="jianhua-WANG-BUAA.github.io/Projects/multi-train/"><img src="https://s2.ax1x.com/2019/10/16/KkV33d.jpg" alt="KkV33d.jpg" border="0" width="500" /></a>
 collection: Projects
-date: 2018-07-05
+date: 2020-06-05
 tags:
   - projects
 ---
 
-## Requirements
+## Overview
 
-Duration: Feb. 2018 - Jun. 2018
+Duration: Nov. 2018 - Jun. 2020
 
 Design and manufacture a constant temperature control system that can be set to a specific temperature:
 
-1. Set the temperature in grades (at least three)
-2. The range of heat is from 50 to 100 degrees, and the error should not exceed ±5 degrees. (Score according to the accuracy)
-3. Use a cellphone to set and display the temperature.
-4. Powered by 220V AC.
+1. Redaction of fund project application.
+2. Design of multi-train formation tracking control protocols under multiple constraints like switching topologies and time-delays.
+3. Construction of a multi-train formation demonstration platform based on Lego EV3.
 
 ## Achievements
 
