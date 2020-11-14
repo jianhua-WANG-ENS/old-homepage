@@ -25,13 +25,13 @@ author_profile: true
 
 2. **Jianhua WANG**, Liang Han, Xiwang Dong, Qingdong Li, and Zhang Ren. 'Bipartite antagonistic time-varying formation tracking for multi-agent system' *2019 Chinese Control Conference (CCC)*, 6118–6123, 2019. [https://doi.org/10.23919/ChiCC.2019.8866328](https://doi.org/10.23919/ChiCC.2019.8866328)
  
-3. **Jianhua WANG**, Fei Liu, Liang Han, Xiwang Dong, Qingdong Li, and Zhang Ren. 'Formation tracking control for second-order nonlinear multi-agent system with unknown maneuvering leader' *2020 Chinese Automation Congress (CAC)*, 2020.
+3. **Jianhua WANG**, Fei Liu, Liang Han, Xiwang Dong, Qingdong Li, and Zhang Ren. 'Formation tracking control for second-order nonlinear multi-agent system with unknown maneuvering leader' *2020 Chinese Automation Congress (CAC)*, 2020. [The poster of this paper can be found here.](https://jianhua-WANG-BUAA.github.io/images/CAC2020-maneuvering-Leader-poster.jpg)
 
-    <img src="https://jianhua-WANG-BUAA.github.io/images/CAC2020-maneuvering-Leader-poster.jpg" alt="CAC2020-maneuvering-Leader-poster.jpg" border="0"/>
+    <!-- <img src="https://jianhua-WANG-BUAA.github.io/images/CAC2020-maneuvering-Leader-poster.jpg" alt="CAC2020-maneuvering-Leader-poster.jpg" border="0"/> -->
 
-4. **Jianhua WANG**, Feng Bao, Liang Han, Xiwang Dong, Qingdong Li, and Zhang Ren. 'Discrete sliding mode control for time-varying formation tracking of multi-UAV system with a dynamic leader' *2020 Chinese Automation Congress (CAC)*, 2020.
+4. **Jianhua WANG**, Feng Bao, Liang Han, Xiwang Dong, Qingdong Li, and Zhang Ren. 'Discrete sliding mode control for time-varying formation tracking of multi-UAV system with a dynamic leader' *2020 Chinese Automation Congress (CAC)*, 2020. [The poster of this paper can be found here.](https://jianhua-WANG-BUAA.github.io/images/CAC2020-dynamic-Leader-poster.jpg)
 
-    <img src="https://jianhua-WANG-BUAA.github.io/images/CAC2020-dynamic-Leader-poster.jpg" alt="CAC2020-dynamic-Leader-poster.jpg" border="0"/>
+    <!-- <img src="https://jianhua-WANG-BUAA.github.io/images/CAC2020-dynamic-Leader-poster.jpg" alt="CAC2020-dynamic-Leader-poster.jpg" border="0"/> -->
 
 # Patent
 
