@@ -39,13 +39,11 @@ This project intends to study the dynamic formation control method of multiple t
 
 ## My work
 
-<p style="text-align:justify; text-justify:inter-ideograph;">
 In this project, my work mainly includes the following three parts:
 
 1. I have participated in the redaction of the project application in the early stage.
 2. I have designed the multi-train formation tracking control protocols under multiple constraints like switching topologies and time-delays.
 3. I was responsible for constructing a multi-train formation demonstration platform based on Lego EV3.
-</p>
 
 
 ## Achievements

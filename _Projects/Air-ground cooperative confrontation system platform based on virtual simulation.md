@@ -6,20 +6,33 @@ collection: Projects
 date: 2019-12-10
 tags:
   - projects
-  - CADC
 ---
 
-## Overview
-
 Duration: Jun. 2019 - Dec. 2019
+
+***Keywords***: *Multi-UGV systems, Multi-UAV systems, Cooperative control, Offensive and defensive confrontation, Gazebo*
+
+## Background
+
+<!-- 无人集群具备通过个体间的有效协作涌现出高于个体的群体智能，完成复杂环境下作战任务的能力，是军事装备体系智能化的驱动引擎，也将颠覆未来的作战形态。如何基于群体智能技术进行分布式协同感知及识别、协同认知与决策、协同制导与控制，是提高无人集群分布式协同作战效能的关键所在，也是新一代人工智能的核心研究领域。 -->
+
+<p style="text-align:justify; text-justify:inter-ideograph;">
+The unmanned swarm has the ability to emerge from the effective collaboration of individuals to achieve higher than individuals' swarm intelligence, and to complete combat tasks in complex environments. It is the driving engine for the intelligence of the military equipment system and will also subvert the future combat form. How to perform distributed collaborative perception and recognition, collaborative cognition and decision-making, and collaborative guidance and control based on swarm intelligence technology is the key to improving the effectiveness of distributed collaborative operations in unmanned clusters, and it is also the core research field of a new generation of artificial intelligence.
+</p>
+
+## Project content
+
+<!-- 开发基于虚拟的异构无人集群攻防对抗仿真平台。攻防双方在生成的地图上拥有各自的阵地，参赛队开发群体智能协同算法，采用一定数量的无人机和无人车相互配合，协同搜索、识别和摧毁对方阵地内的静止和移动目标，同时协同拦截对方的无人机和无人车，保护己方的指挥所不被摧毁。其中，无人机具备协同探测和多机协同摧毁对方无人机的能力；无人车具协同探测和摧毁地面目标的能力；两者之间可以互相通信和协同。 -->
+
+<p style="text-align:justify; text-justify:inter-ideograph;">
+Develop a virtual heterogeneous unmanned cluster attack and defense countermeasure simulation platform. The offensive and defensive sides have their own positions on the generated map. The participating teams develop a group intelligent collaborative algorithm, and use a certain number of drones and unmanned vehicles to cooperate with each other to collaboratively search, identify and destroy stationary and moving targets in the opponent's position. Coordinately intercept the opponent's drones and unmanned vehicles to protect your command post from being destroyed. Among them, UAVs have the ability to coordinate detection and multi-aircraft to destroy each other's UAVs; unmanned vehicles have the ability to coordinate detection and destruction of ground targets; the two can communicate and cooperate with each other.
+</p>
+
+## My work
 
 1. Design of UAV/UGV air-ground cooperative countermeasure demonstration algorithms.
 2. Construction of a virtual coordinated combat scenario based on Gazebo simulator.
 3. Development and redaction of Matlab/Python control API demos.
-
-<img src="https://s2.ax1x.com/2019/11/26/MzsSAO.png" alt="MzsSAO.png" border="0" />
-
-This project was designed for **the Time-limited Airdrop Project** in the 2018 China Aeromodelling Design Challenge competition (Participants of CADC came from **nearly** **100 universities** in China). **Our three flight groups won the first 🥇, second 🥈, and third 🥉 places**, thereby setting the **best records** in history. As the **leader** of the composite group, I led six members to complete the production of the D-box structures, wing spars, ailerons, and fairings of six aircrafts for each of the three flight groups. 
 
 ## Achievements
 
@@ -33,113 +46,6 @@ This competition requires each team to design and manufacture an aircraft which 
 
 4. Can release the load after flying to a certain height (18m) above the release area. 
 
-The aircraft should return to the field safely and circulate until the end of the race (**600s**). The team that carries the heaviest load and drops the load most accurately will win. Each university shall have a maximum of three flight groups, and each flight group shall have a maximum of two models in the competition.
-
-Please refer to the complete [rulebook (CN)](http://Li-jinjie.github.io/files/Others/CADC_2018_Rules.pdf) for more information.
-
-**Three-view drawing of the airplane**
-
-<img src="https://s2.ax1x.com/2019/11/25/Mvjtp9.png" alt="Three-view drawing of the airplane" border="0" width="500"/>
-
-Basic design parameters of our aircraft are as follows:
-
-|      Design parameter      |   value   |
-| :------------------------: | :-------: |
-|        Maximum load        |   24 kg   |
-|  Maximum take-off weight   |  27.5 kg  |
-|     Ideal flight speed     |  15 m/s   |
-|     Maximum wing load      | 127 kg/m2 |
-| Static thrust-weight ratio |   0.35    |
-
-The following video is an overall introduction of the aircraft：
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vjR3_lXf62Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-This video is a recording of the CADC competition. (Since there were three rounds in total and each round had three teams, we compiled a great deal of video footage. To limit the excessive length, only one video appears here.)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PxnXmD9XrL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-## **Division**
-
-All members come from the **Beihang Aeromodelling Team**. The team was divided into five groups, responsible for composite materials, wings, fuselage, power, and electricity.
-
-**Composite material team members**: **LI Jinjie (team leader)**, SHI Tailong, XU Yingjian, YIN Qian, MA Guoquan, SUN Xiaozhen, LI Yunjin
-
-<img src="https://s2.ax1x.com/2019/10/09/uIH1L4.jpg" alt="uIH1L4.jpg" border="0" width="600"/>
-
-**Instructors**: *Prof.* WAN Zhiqiang, LI Yongxin, WANG Funan
-
-## An introduction of my work
-
-My task was to lead the composite team to complete the fabrication of the composite beams, D-box, ailerons, and fairing. In addition to completing these production tasks, my main contributions included:
-
-1. **Changing the grain** of glass fiber from straight to twill to conform to the direction of maximum shear
-   stress, according to the material mechanics theory I learned.
-2. **Sourcing** a specialized Ukraine-made **carbon cloth** from a European glider BBS, which weighed merely 30 g/m2 in order to meet both the stress and the weight requirements.
-3. **Designing the testbed** based on the course experiment and **manufacturing test pieces**.
-4. Solving the problems in the production process and optimizing the production efficiency.
-
-Based on the test, the new D-box was able to increase the torsional resistance to **2.61 times** what
-it was before without significantly increasing the weight. This technology effectively solved the problem of torsional stiffness of the high aspect-ratio wing and thus, ensured the outstanding performance of the aircraft.
-
-### Wing
-
-The wing structure is shown in Figure 1. Both the left and right wings are single-spar structures. Each wing is designed in two parts: the front half consists of a spar, the front half ribs and the skin form a “D” shape closed chamber structure (D-box), as shown in Figure 2; the second half consists of balsa wood ribs, trailing edge and heat-shrinking film skin. The wings and the fuselage are connected by aluminum pins and the secondary pins.
-
-|                   Figure 1. Wing Structure                   |
-| :----------------------------------------------------------: |
-| <img src="https://s2.ax1x.com/2019/11/27/Q9z9Vs.png" alt="Q9z9Vs.png" border="0" /> |
-|              **Figure 2. The D-box structure**               |
-| <img src="https://s2.ax1x.com/2019/11/26/Mx5QMD.jpg" alt="Mx5QMD.jpg" border="0" width="400"> |
-
-**Material Selection**:
-
-The spar bears most of the bending moment and shear force of the wing. We designed a sandwich structure to reduce the weight of the spar. The most suitable material for flanges to withstand axial force is selected by calculating and comparing the specific strength among wood, metal, and carbon filament (Figure 3). The strength of carbon filament was measured by static testing, and we therefore selected carbon filament. 
-
-|         Figure 3. Properties of Different Materials          |
-| :----------------------------------------------------------: |
-| <img src="https://s2.ax1x.com/2019/10/09/u5SiAe.jpg" alt="u5SiAe.jpg" border="0" width="550"/> |
-
-The web of the spar is mainly subjected to shear. Moreover, a variety of woods and PMIs can be used, as shown in Figure 4. PMI was selected as the spar web material. 
-
-|              Figure 4. Web Strength Comparison               |
-| :----------------------------------------------------------: |
-| <img src="https://s2.ax1x.com/2019/10/09/u5SFtH.jpg" alt="u5SFtH.jpg" border="0" width="450"/> |
-
-The spar structure is shown in Figure 5. Abutting aluminum pins are respectively fixed at the two wing roots and the fuselage. The aluminum pins and the pine are connected by carbon rod, and then bonded to the web, and the outer flanges are covered to ensure the connection strength. 
-
-|                 Figure 5. The spar structure                 |
-| :----------------------------------------------------------: |
-| <img src="https://s2.ax1x.com/2019/11/26/Mx5lse.jpg" alt="Mx5lse.jpg" border="0" width="400"> |
-
-The D-box and the skin must withstand substantial torque. The torsional stiffness of the glass fiber skin under different expansion modes and the twill expansion under different materials of monolayer were measured experimentally. I designed and implemented this experiment according to the torsional stiffness experiment in the course of material mechanics (Figures 6, 7). The higher the slope, greater the torsional stiffness. Therefore, according to the results (Figures 8, 9), we chose twill carbon fiber as the D-box skin material.  As the strength of the D-box was sufficient, the rest of the skin was made of heat shrinkable film in order to prevent signal shielding and reduce costs.
-
-|              Figure 6. The experimental models               |              Figure 7. Torsional stiffness test              |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://s2.ax1x.com/2019/10/09/u5ZPfK.jpg" alt="u5ZPfK.jpg" border="0" width="500"> | <img src="https://s2.ax1x.com/2019/10/09/u5ZFSO.jpg" alt="u5ZFSO.jpg" border="0" width="500"> |
-| **Figure 8. Torsional Stiffness of Different Expansion Modes** |   **Figure 9. Torsional Stiffness of Different Materials**   |
-| <img src="https://s2.ax1x.com/2019/10/09/u5plqK.jpg" alt="u5plqK.jpg" border="0" width="450"/> | <img src="https://s2.ax1x.com/2019/10/09/u5p3VO.jpg" alt="u5p3VO.jpg" border="0" width="450"/> |
-
-The wing in 2017 and in 2018 are shown in Figure 10 and Figure 11 for comparison. Carbon fiber is heavier, but the greater torsional stiffness reduces the number of ribs, resulting in only a slight increase in the overall weight of the wing.
-
-|          Figure 10. The wings of the 2017 aircraft           |          Figure 11. The wings of the 2018 aircraft           |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://s2.ax1x.com/2019/11/26/MxXx3j.png" alt="MxXx3j.png" border="0" /> | <img src="https://s2.ax1x.com/2019/11/26/Mxj1UO.jpg" alt="Mxj1UO.jpg" border="0" /> |
-|                Linear fiber glass, k = 18684                 |                Twill carbon fiber, k = 48779                 |
-
-### Ailerons and Fairing
-
-The XPS ailerons were shaped by XPS CNC thermal cutting, and glass fiber was laid on the surface as reinforcement. The XPS mold for fairing was carved by CNC milling machine, and the production process of fairing was similar to the skin of D-box. Please read the Techniques section for more information.
-
-### Techniques
-
-PMI foam was polished and molded, with aluminum pin bonded, and a thin carbon sheet was pasted at the bonding site as the reinforcing web. Then, carbon fiber wires soaked in resin were laid on the upper and lower surfaces. After curing, Kevlar was tightly wound to prevent the flanges from losing stability and foaming, as shown in the first picture of Figure 12.
-
-The mold was carved with CNC. Then the carbon fiber cloth was soaked in the resin and put into the mold together with PMI to be vacuum-cured, and finally the skin was formed. Loading the skin into the wing spar and rib and closing the mold, the D box was finally formed.
-
-| Figure 12.  A Beam, the soaked PMI and carbon fiber cloth, and the closed mold |
-| :----------------------------------------------------------: |
-| <img src="https://s2.ax1x.com/2019/10/09/u5Mlpq.jpg" alt="u5Mlpq.jpg" border="0" /> |
-
----
 
 The plane's wing of the Beihang Aeromodelling team participating in the 2019 SAE Aero Design (west) also uses the **same** D-box structure and won the **first** place in **the advanced class overall award**. 🏆
 
