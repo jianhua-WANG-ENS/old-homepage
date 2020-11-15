@@ -1,5 +1,5 @@
 # main links links
-main:
+main: 
 
   - title: "Publications"
     url: /Publications/  
@@ -7,17 +7,14 @@ main:
   - title: "Projects"
     url: /Projects/    
     
-  - title: "Assignments"
+  - title: "Competitions"
     url: /Assignments/
 
-  - title: "Portfolio"
+  - title: "Experiences"
     url: /portfolio/
 
   - title: "CV&Contact"
     url: /cv/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   
     
