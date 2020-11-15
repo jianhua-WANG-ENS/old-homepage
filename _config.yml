@@ -187,7 +187,7 @@ collections:
   Assignments:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  Experiences:
     output: true
     permalink: /:collection/:path/
 
@@ -241,10 +241,10 @@ defaults:
       author_profile: true
       share: false
       comments: false
-  # _portfolio
+  # _Experiences
   - scope:
       path: ""
-      type: portfolio
+      type: Experiences
     values:
       layout: single
       author_profile: true

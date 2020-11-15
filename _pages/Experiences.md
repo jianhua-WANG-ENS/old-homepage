@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Portfolio"
-permalink: /portfolio/
+title: "Experiences"
+permalink: /Experiences/
 author_profile: true
 # redirect_from:
 #   - /resume
