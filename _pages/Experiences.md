@@ -11,9 +11,14 @@ author_profile: true
 
 Hi! I am a **keen** amateur photographer! 📸
 
-I love traveling around the world, enjoying magnificent natural landscapes and talking with people everywhere🌏. I believe that pictures are the **BEST LANGUAGE** to record these wondrous journeys.  You can find my favorite works on <a href="https://500px.com/vcg-lijinjie" target="_blank">my photography website</a>! (or click [here](https://500px.me/lijinjie))
+## 1. Tutor for P2018 freshmen
 
-<a href="https://500px.com/vcg-lijinjie" target="_blank"><img src="https://s2.ax1x.com/2019/10/16/KkknHS.jpg" alt="KkknHS.jpg" border="0" /></a>
+1. Organization of the team-building activities for freshmen.
+2. Response of the freshmen's questions about the college's cultivating model
 
-<!-- Mouse over a cluster to see where I have been!
-<iframe src="/talkmap/map.html" height="700" width="950" style="border:none;"></iframe> -->
+---
+
+## 2. Volunteer at rural summer camps
+*with Enjoy Volunteering*
+
+1. Responsible for preparing educational games and picture book reading activities for children.
