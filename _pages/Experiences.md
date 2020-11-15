@@ -51,7 +51,7 @@ I and 9 other college students from different universities led the students in S
 
 📍 Shandong, China
 
-<img src="https://jianhua-WANG-BUAA.github.io/images/EV-shandong-second-group-picture.jpg" alt="EV-shandong-second-group-picture.jpg border="0"/>
+<img src="https://jianhua-WANG-BUAA.github.io/images/EV-shandong-second-group-picture.jpg" alt="EV-shandong-second-group-picture.jpg" border="0"/>
 
 <img src="https://jianhua-WANG-BUAA.github.io/images/EV-shandong-second-group-picture-Students.jpg" alt="EV-shandong-second-group-picture-Students.jpg" border="0"/>
 
