@@ -38,7 +38,7 @@ I and 9 other college students from different universities led the students in S
 
 <img src="https://jianhua-WANG-BUAA.github.io/images/EV-sichuan-group-picture-Students.jpg" alt="EV-sichuan-group-picture-Students.jpg" border="0"/>
 
-|                   Team photo                   |        Play time                     |         Home  visiting              |
+|                   Team photo                   |        Play time                     |         Follow-up visit              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="https://jianhua-WANG-BUAA.github.io/images/EV-sichuan-group-picture.jpg" alt="EV-sichuan-group-picture.jpg" border="0" width="500"/> | <img src="https://jianhua-WANG-BUAA.github.io/images/EV-sichuan-activities (2).jpg" alt="EV-sichuan-activities (2).jpg" border="0" width="500"/> | <img src="https://jianhua-WANG-BUAA.github.io/images/EV-sichuan-activities (1).jpg" alt="EV-sichuan-activities (1).jpg" border="0" width="500"/> |
 
@@ -46,6 +46,12 @@ I and 9 other college students from different universities led the students in S
 ### The second time 
 
 📍 Shandong, China
+
+<img src="https://jianhua-WANG-BUAA.github.io/images/EV-shandong1-group-picture-students.jpg" alt="EV-shandong1-group-picture-students.jpg" border="0"/>
+
+|                   Team photo                   |        Activities time                     |         Closed camp photo             |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://jianhua-WANG-BUAA.github.io/images/EV-shandong1-group-picture.jpg" alt="EV-shandong1-group-picture.jpg" border="0" width="500"/> | <img src="https://jianhua-WANG-BUAA.github.io/images/EV-shandong1-activity.jpg" alt="EV-shandong1-activity.jpg" border="0" width="500"/> | <img src="https://jianhua-WANG-BUAA.github.io/images/EV-shandong1-group-picture-end.jpg" alt="EV-shandong1-group-picture-end.jpg" border="0" width="500"/> |
 
 
 
