@@ -38,7 +38,7 @@ I was responsible for preparing educational games and picture book reading activ
 📍 Sichuan, China
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-With another nine college students from different universities, we carried out a one-month rural summer camp for primary school students in Sichuan. 👇
+With another nine college students from different universities, we carried out a one-month rural summer camp for secondary school students in Sichuan. 👇
 </p>
 
 <img src="https://jianhua-WANG-BUAA.github.io/images/EV-sichuan-group-picture-Students.jpg" alt="EV-sichuan-group-picture-Students.jpg" border="0"/>
@@ -52,6 +52,10 @@ With another nine college students from different universities, we carried out a
 
 📍 Shandong, China
 
+<p style="text-align:justify; text-justify:inter-ideograph;">
+With another two full-time staff from Enjoy Volunteering and six college students from different universities, we carried out a one-month rural winter camp for students in Shangzhuang Primary School. 👇
+</p>
+
 <img src="https://jianhua-WANG-BUAA.github.io/images/EV-shandong1-group-picture-students.jpg" alt="EV-shandong1-group-picture-students.jpg" border="0"/>
 
 |                   Team photo                   |        Activity time                     |         Closing ceremony             |
@@ -62,6 +66,10 @@ With another nine college students from different universities, we carried out a
 ### 2.3 The third time 
 
 📍 Shandong, China
+
+<p style="text-align:justify; text-justify:inter-ideograph;">
+Six months later, as the team leader, with another eleven college students and three volunteers from Samsung, we organized a follow-up visit to Shangzhuang Primary School. 👇
+</p>
 
 <img src="https://jianhua-WANG-BUAA.github.io/images/EV-shandong2-group-picture-Students.jpg" alt="EV-shandong-second-group-picture-Students.jpg" border="0"/>
 
