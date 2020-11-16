@@ -11,7 +11,7 @@ author_profile: true
 
 <!-- 在学习和科研之余，我还参加了很多志愿服务活动。 -->
 
-Apart from studying and scientific research, I also participated in many voluntary service activities.
+Hi! I am keen on voluntary activities! 😀
 
 ## 1. Tutor for P2018 freshmen
 
