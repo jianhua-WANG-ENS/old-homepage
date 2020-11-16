@@ -39,4 +39,4 @@ This project focuses on the problem of multi-UAV formation tracking control for 
 
 This video presents the multi-UAV formation tracking experiments based on the ARDrone UAVs and formation experimental platform. 👇
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dHqNoYIUqD8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zv7jvh17vPQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

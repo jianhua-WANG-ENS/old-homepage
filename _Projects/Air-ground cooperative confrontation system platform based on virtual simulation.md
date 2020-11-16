@@ -47,8 +47,4 @@ This competition requires each team to design and manufacture an aircraft which 
 4. Can release the load after flying to a certain height (18m) above the release area. 
 
 
-The plane's wing of the Beihang Aeromodelling team participating in the 2019 SAE Aero Design (west) also uses the **same** D-box structure and won the **first** place in **the advanced class overall award**. 🏆
-
----
-
-In this experience, I exercised my hands-on ability and realized my dream of making an airplane. More importantly, we worked as a team to achieve our collective goal; our journey together was truly unforgettable.
+<iframe width="908" height="511" src="https://www.youtube.com/embed/1x9h_GIftvc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
