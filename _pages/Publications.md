@@ -11,7 +11,7 @@ author_profile: true
    
    <p style="text-align:justify; text-justify:inter-ideograph;">Time-varying formation of second-order discrete-time multi-agent systems under non-uniform communication delays and switching topology with application to UAV formation flying.</p>
    
-   *IET Control Theory & Applications*, 14(14):1947–1956,2020. 
+   *IET Control Theory & Applications*, 14(14):1947–1956, 2020. 
    
    [https://doi.org/10.1049/iet-cta.2020.0183](https://doi.org/10.1049/iet-cta.2020.0183)
 

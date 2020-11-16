@@ -64,7 +64,10 @@ I and 9 other college students from different universities led the students in S
 
 I led the new students to visit the Sino-French UAV laboratory and explained the basic knowledge of UAV control for them. 👇
 
-<img src="https://jianhua-WANG-BUAA.github.io/images/Tutor_for_freshmen.jpg" alt="Tutor_for_freshmen.jpg" border="0"/>
+
+|                   Team photo                   |        UAV knowledge explanation                |         UAV flight time            |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://jianhua-WANG-BUAA.github.io/images/Tutor_freshmen_team_photo" alt="Tutor_freshmen_team_photo.jpg" border="0" width="500"/> | <img src="https://jianhua-WANG-BUAA.github.io/images/Tutor_freshmen_UAV_teaching.jpg" alt="Tutor_freshmen_UAV_teaching.jpg" border="0" width="500"/> | <img src="https://jianhua-WANG-BUAA.github.io/images/Tutor_freshmen_UAV_flight.jpg" alt="Tutor_freshmen_UAV_flight.jpg" border="0" width="500"/> |
 
 
 
