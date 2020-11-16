@@ -58,3 +58,26 @@ The following video shows the scene of a coordinated formation of UAVs and UGVs 
 
 ## 2. "Lijian Cup" Smart Aerospace Innovation Competition
 
+Date: Sep. 2020
+
+Advisor: Liang HAN
+
+Award: Advance to the final
+
+### 2.1 Overview 
+
+<!-- 本项目结合沿海密集城市地区的环境特点，融入新的作战理念，从多域联合、智能决策、侦查威慑、战力组合等方面出发，提出构建拒止环境智能防御对抗体系的方案。 -->
+
+<p style="text-align:justify; text-justify:inter-ideograph;">
+This project combines the environmental characteristics of dense coastal urban areas and incorporates new operational concepts. Starting from the aspects of multi-domain cooperation, intelligent decision-making, reconnaissance deterrence, and combat power combination, it proposes a plan to build an intelligent defense countermeasure system against the environment.</p>
+
+### 2.2 Overall plan
+
+<!-- 系统架构方面，采用了马赛克开放系统架构，将总体的作战武力单元分为多个感知、决策和执行单元。通过引入对抗学习、强化学习、博弈论和分布式优化等方法，使得三种基本武力单元具备根据子战场战力需求和战争激烈程度进行动态分配重组的能力，进而实现对敌方战力的快速高效打击。下图展示了方案的总体架构。👇 -->
+
+<p style="text-align:justify; text-justify:inter-ideograph;">
+In terms of system architecture, a mosaic open system architecture is adopted to divide the overall combat force unit into multiple units of perception, decision-making, and execution. Through the introduction of adversarial learning, reinforcement learning, game theory, and distributed optimization methods, the three basic force units have the ability to dynamically allocate and reorganize according to the needs of sub-battlefield combat power and the intensity of the war, thereby achieving rapid and efficient strikes against enemy combat power . The following figure shows the overall structure of the program. 👇
+</p>
+
+<img src="https://jianhua-WANG-BUAA.github.io/images/competition-lijian-cup.png" alt="competition-lijian-cup.png" border="0"/>
+
