@@ -75,6 +75,8 @@ author_profile: true
 
 1. A formation tracking control method based on discrete-time sliding mode control structure.
 
-    Patent number: 202010419920.2. Preliminary examination passed.
+    Patent number: 202010419920.2. 
+    
+    Preliminary examination passed.
 
 
