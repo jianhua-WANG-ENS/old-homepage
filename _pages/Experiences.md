@@ -13,7 +13,7 @@ Hi! I am a **keen** amateur photographer! 📸
 
 
 ## 1. Volunteer at rural summer camps
-*with Enjoy Volunteering*
+*with Enjoy Volunteering* <img src="https://jianhua-WANG-BUAA.github.io/images/EV-logo.png" alt="EV-logo.png" border="0" width="100"/>
 
 I was responsible for preparing educational games and picture book reading activities for children.
 
