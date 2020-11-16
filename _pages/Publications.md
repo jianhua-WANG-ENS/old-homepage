@@ -35,7 +35,9 @@ author_profile: true
 
 1. **Jianhua WANG**, Liang Han, Yilong Wen, Xiwang Dong, Qingdong Li, and Zhang Ren.
    
+   <p style="text-align:justify; text-justify:inter-ideograph;">
    Time-varying formation of double-integrator discrete-time multi-agent systems with switching topology and time-delay.
+   </p>
    
    *2019 Chinese Automation Congress (CAC)*, 3571–3576, 2019. 
    
