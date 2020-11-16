@@ -18,6 +18,13 @@ author_profile: true
 
 ## 1. Youth Scientific Innovation Exchanges from China and France
 
+Date: Nov. 2019
+
+Advisor: Liang HAN
+
+Award: Best Innovation Award
+
+
 ### 1.1 Background
 
 <!-- 以麦克纳姆轮为代表的万向轮无人车具有运动灵活，控制简单等优点，能够适应复杂的地形。随着对机械臂模型研究的逐步深入，针对多自由度的复杂机械臂的控制技术日渐完善。由机械臂和万向轮小车组合而成的轮式机器人可以充分发挥二者的优势，能够很好地完成在复杂地形下的物体搬运等任务。 -->
@@ -39,9 +46,14 @@ The universal wheel unmanned ground vehicle (UGV) represented by the Mecanum whe
 
 ### 1.3 Achievements
 
-The following video shows the scene of a coordinated formation of UAVs and UGVs equipped with manipulators.👇. 
+The following video shows the scene of a coordinated formation of UAVs and UGVs equipped with manipulators. 😎
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/wzu0CHlsenE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+  ### 1.4 Team photo 
 
-## 2. Cup
+  <img src="https://jianhua-WANG-BUAA.github.io/images/competition-china-french.jpg" alt="competition-china-french.jpg" border="0"/>
+
+
+## 2. "Lijian Cup" Smart Aerospace Innovation Competition
+
