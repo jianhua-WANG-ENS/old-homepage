@@ -22,7 +22,7 @@ Date: Nov. 2019
 
 Advisor: Liang HAN
 
-Award: Best Innovation Award
+Award: **Best Innovation Award**
 
 
 ### 1.1 Background
@@ -50,7 +50,8 @@ The following video shows the scene of a coordinated formation of UAVs and UGVs 
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/wzu0CHlsenE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-  ### 1.4 Team photo 
+
+### 1.4 Team photo 
 
   <img src="https://jianhua-WANG-BUAA.github.io/images/competition-china-french.jpg" alt="competition-china-french.jpg" border="0"/>
 
