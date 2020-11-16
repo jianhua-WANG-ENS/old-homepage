@@ -13,16 +13,33 @@ author_profile: true
 
 Apart from studying and scientific research, I also participated in many voluntary service activities.
 
-## 1. Volunteer at rural summer camps
+## 1. Tutor for P2018 freshmen
+
+1. <p style="text-align:justify; text-justify:inter-ideograph;">I organized team-building activities, and provided the advice and guidance on their college life.</p> 
+2. <p style="text-align:justify; text-justify:inter-ideograph;">I explained how to manipulate the UAV and introduced the basic knowledge of UAV automatic control.</p> 
+
+<!-- 带领新同学参观中法无人机实验室，并为他们讲解无人机控制的基本知识。 -->
+
+A visit to the Sino-French UAV laboratory 👇
+
+|                   Team photo                   |        UAV knowledge explanation                |         UAV flight time            |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://jianhua-WANG-BUAA.github.io/images/Tutor_freshmen_team_photo.jpg" alt="Tutor_freshmen_team_photo.jpg" border="0" width="500"/> | <img src="https://jianhua-WANG-BUAA.github.io/images/Tutor_freshmen_UAV_teaching.jpg" alt="Tutor_freshmen_UAV_teaching.jpg" border="0" width="500"/> | <img src="https://jianhua-WANG-BUAA.github.io/images/Tutor_freshmen_UAV_flight.jpg" alt="Tutor_freshmen_UAV_flight.jpg" border="0" width="500"/> |
+
+-----------------
+
+## 2. Volunteer at rural summer camps
 *with Enjoy Volunteering* <img src="https://jianhua-WANG-BUAA.github.io/images/EV-logo.png" alt="EV-logo.png" border="0" width="150"/>
 
 I was responsible for preparing educational games and picture book reading activities for children.
 
-### 1.1 The first time 
+### 2.1 The first time 
 
 📍 Sichuan, China
 
-I and 9 other college students from different universities led the students in Sichuan to carry out a one-month rural summer camp. 👇
+<p style="text-align:justify; text-justify:inter-ideograph;">
+With another nine college students from different universities, we carried out a one-month rural summer camp for primary school students in Sichuan. 👇
+</p>
 
 <img src="https://jianhua-WANG-BUAA.github.io/images/EV-sichuan-group-picture-Students.jpg" alt="EV-sichuan-group-picture-Students.jpg" border="0"/>
 
@@ -30,8 +47,8 @@ I and 9 other college students from different universities led the students in S
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="https://jianhua-WANG-BUAA.github.io/images/EV-sichuan-group-picture.jpg" alt="EV-sichuan-group-picture.jpg" border="0" width="500"/> | <img src="https://jianhua-WANG-BUAA.github.io/images/EV-sichuan-activities (2).jpg" alt="EV-sichuan-activities (2).jpg" border="0" width="500"/> | <img src="https://jianhua-WANG-BUAA.github.io/images/EV-sichuan-activities (1).jpg" alt="EV-sichuan-activities (1).jpg" border="0" width="500"/> |
 
-
-### 1.2 The second time 
+------------------------
+### 2.2 The second time 
 
 📍 Shandong, China
 
@@ -41,9 +58,8 @@ I and 9 other college students from different universities led the students in S
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="https://jianhua-WANG-BUAA.github.io/images/EV-shandong1-group-picture.jpg" alt="EV-shandong1-group-picture.jpg" border="0" width="500"/> | <img src="https://jianhua-WANG-BUAA.github.io/images/EV-shandong1-activity.jpg" alt="EV-shandong1-activity.jpg" border="0" width="500"/> | <img src="https://jianhua-WANG-BUAA.github.io/images/EV-shandong1-group-picture-end.jpg" alt="EV-shandong1-group-picture-end.jpg" border="0" width="500"/> |
 
-
-
-### 1.3 The third time 
+----------------------
+### 2.3 The third time 
 
 📍 Shandong, China
 
@@ -53,22 +69,6 @@ I and 9 other college students from different universities led the students in S
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="https://jianhua-WANG-BUAA.github.io/images/EV-shandong2-group-picture.jpg" alt="EV-shandong2-group-picture.jpg" border="0" width="500"/> | <img src="https://jianhua-WANG-BUAA.github.io/images/EV-shandong2-training-tutor.jpg" alt="EV-shandong2-training-tutor.jpg" border="0" width="500"/> | <img src="https://jianhua-WANG-BUAA.github.io/images/EV-shandong2-sumsing-volunteers.jpg" alt="EV-shandong2-sumsing-volunteers.jpg" border="0" width="500"/> |
 
-----
-
-
-## 2. Tutor for P2018 freshmen
-
-1. Organization of the team-building activities for freshmen.
-2. Response of the freshmen's questions about the college's cultivating model
-
-<!-- 带领新同学参观中法无人机实验室，并为他们讲解无人机控制的基本知识。 -->
-
-I led the new students to visit the Sino-French UAV laboratory and explained the basic knowledge of UAV control for them. 👇
-
-
-|                   Team photo                   |        UAV knowledge explanation                |         UAV flight time            |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://jianhua-WANG-BUAA.github.io/images/Tutor_freshmen_team_photo.jpg" alt="Tutor_freshmen_team_photo.jpg" border="0" width="500"/> | <img src="https://jianhua-WANG-BUAA.github.io/images/Tutor_freshmen_UAV_teaching.jpg" alt="Tutor_freshmen_UAV_teaching.jpg" border="0" width="500"/> | <img src="https://jianhua-WANG-BUAA.github.io/images/Tutor_freshmen_UAV_flight.jpg" alt="Tutor_freshmen_UAV_flight.jpg" border="0" width="500"/> |
 
 
 
