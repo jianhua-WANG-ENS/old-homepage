@@ -9,15 +9,16 @@ author_profile: true
 
 {% include base_path %}
 
-Hi! I am a **keen** amateur photographer! 📸
+<!-- 在学习和科研之余，我还参加了很多志愿服务活动。 -->
 
+Apart from studying and scientific research, I also participated in many voluntary service activities.
 
 ## 1. Volunteer at rural summer camps
-*with Enjoy Volunteering* <img src="https://jianhua-WANG-BUAA.github.io/images/EV-logo.png" alt="EV-logo.png" border="0" width="100"/>
+*with Enjoy Volunteering* <img src="https://jianhua-WANG-BUAA.github.io/images/EV-logo.png" alt="EV-logo.png" border="0" width="150"/>
 
 I was responsible for preparing educational games and picture book reading activities for children.
 
-### The first time 
+### 1.1 The first time 
 
 📍 Sichuan, China
 
@@ -30,7 +31,7 @@ I and 9 other college students from different universities led the students in S
 | <img src="https://jianhua-WANG-BUAA.github.io/images/EV-sichuan-group-picture.jpg" alt="EV-sichuan-group-picture.jpg" border="0" width="500"/> | <img src="https://jianhua-WANG-BUAA.github.io/images/EV-sichuan-activities (2).jpg" alt="EV-sichuan-activities (2).jpg" border="0" width="500"/> | <img src="https://jianhua-WANG-BUAA.github.io/images/EV-sichuan-activities (1).jpg" alt="EV-sichuan-activities (1).jpg" border="0" width="500"/> |
 
 
-### The second time 
+### 1.2 The second time 
 
 📍 Shandong, China
 
@@ -42,7 +43,7 @@ I and 9 other college students from different universities led the students in S
 
 
 
-### The third time 
+### 1.3 The third time 
 
 📍 Shandong, China
 
