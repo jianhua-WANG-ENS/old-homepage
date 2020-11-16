@@ -79,9 +79,10 @@ This proposal combines the environmental characteristics of dense coastal urban 
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
 In terms of system architecture, a mosaic open system architecture is adopted to divide the overall combat force unit into multiple units of perception, decision-making, and execution. Through the introduction of adversarial learning, reinforcement learning, game theory, and distributed optimization methods, the three basic force units have the ability to dynamically allocate and reorganize according to the needs of sub-battlefield combat power and the intensity of the war. Thereby, it can achieve rapid and efficient strikes against enemy forces. 
+</p>
 
 The following figure shows the overall structure of the program. 👇
-</p>
+
 
 <img src="https://jianhua-WANG-BUAA.github.io/images/competition-lijian-cup.png" alt="competition-lijian-cup.png" border="0"/>
 
