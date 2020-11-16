@@ -36,9 +36,11 @@ I was responsible for preparing educational games and picture book reading activ
 
 I and 9 other college students from different universities led the students in Sichuan to carry out a one-month rural summer camp. 👇
 
-<img src="https://jianhua-WANG-BUAA.github.io/images/EV-sichuan-group-picture.jpg" alt="EV-sichuan-group-picture.jpg" border="0"/>
-
 <img src="https://jianhua-WANG-BUAA.github.io/images/EV-sichuan-group-picture-Students.jpg" alt="EV-sichuan-group-picture-Students.jpg" border="0"/>
+
+|                   Team photo                   |                 Volunteers visiting students' homes                  |                         Students playing games together                          |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://jianhua-WANG-BUAA.github.io/images/EV-sichuan-group-picture.jpg" alt="EV-sichuan-group-picture.jpg" border="0" width="500"/> | <img src="https://jianhua-WANG-BUAA.github.io/images/EV-sichuan-activities (2).jpg" alt="EV-sichuan-activities (2).jpg" border="0" width="500"/> | <img src="https://jianhua-WANG-BUAA.github.io/images/EV-sichuan-activities (1).jpg" alt="EV-sichuan-activities (1).jpg" border="0" width="500"/> |
 
 
 ### The second time 
