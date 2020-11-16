@@ -38,7 +38,7 @@ I and 9 other college students from different universities led the students in S
 
 <img src="https://jianhua-WANG-BUAA.github.io/images/EV-sichuan-group-picture-Students.jpg" alt="EV-sichuan-group-picture-Students.jpg" border="0"/>
 
-|                   Team photo                   |                 Volunteers visiting students' homes                  |                         Students playing games together                          |
+|                   Team photo                   |        Students playing games together                               |                        Volunteers visiting students' homes                       |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="https://jianhua-WANG-BUAA.github.io/images/EV-sichuan-group-picture.jpg" alt="EV-sichuan-group-picture.jpg" border="0" width="500"/> | <img src="https://jianhua-WANG-BUAA.github.io/images/EV-sichuan-activities (2).jpg" alt="EV-sichuan-activities (2).jpg" border="0" width="500"/> | <img src="https://jianhua-WANG-BUAA.github.io/images/EV-sichuan-activities (1).jpg" alt="EV-sichuan-activities (1).jpg" border="0" width="500"/> |
 
