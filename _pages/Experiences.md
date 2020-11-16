@@ -53,7 +53,7 @@ With another nine college students from different universities, we carried out a
 📍 Shandong, China
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-With another two full-time staff from Enjoy Volunteering and six college students from different universities, we carried out a one-month rural winter camp for students in Shangzhuang Primary School. 👇
+With another two full-time staff from **Enjoy Volunteering** and six college students from different universities, we carried out a one-month rural winter camp for students in Shangzhuang Primary School. 👇
 </p>
 
 <img src="https://jianhua-WANG-BUAA.github.io/images/EV-shandong1-group-picture-students.jpg" alt="EV-shandong1-group-picture-students.jpg" border="0"/>
@@ -68,7 +68,7 @@ With another two full-time staff from Enjoy Volunteering and six college student
 📍 Shandong, China
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-Six months later, as the team leader, with another eleven college students and three volunteers from Samsung, we organized a follow-up visit to Shangzhuang Primary School. 👇
+Six months later, as the team leader, with another eleven college students and three volunteers from **Samsung**, we organized a follow-up visit to Shangzhuang Primary School. 👇
 </p>
 
 <img src="https://jianhua-WANG-BUAA.github.io/images/EV-shandong2-group-picture-Students.jpg" alt="EV-shandong-second-group-picture-Students.jpg" border="0"/>
