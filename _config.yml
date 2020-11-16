@@ -184,7 +184,7 @@ collections:
   Projects:
     output: true
     permalink: /:collection/:path/
-  Assignments:
+  Competitions:
     output: true
     permalink: /:collection/:path/
   Experiences:
@@ -232,10 +232,10 @@ defaults:
       # read_time: false
       share: false
       comments: false
-  # _Assignments
+  # _Competitions
   - scope:
       path: ""
-      type: Assignments
+      type: Competitions
     values:
       layout: single
       author_profile: true
