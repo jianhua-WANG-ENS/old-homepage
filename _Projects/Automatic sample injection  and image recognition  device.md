@@ -10,9 +10,7 @@ tags:
 
 Duration: Nov. 2018 - Mai. 2019
 
-Company:  [Suzhou Weimu Intelligent System Co., Ltd.](http://www.weimutech.com/) <img src="https://jianhua-WANG-BUAA.github.io/images/logo-SuzhouWeimu.png" alt="logo-SuzhouWeimu.png" border="0" width="200" />
-
-
+Company:  [Suzhou Weimu Intelligent System Co., Ltd.](http://www.weimutech.com/) <img src="https://jianhua-WANG-BUAA.github.io/images/logo-SuzhouWeimu.png" alt="logo-SuzhouWeimu.png" border="0" width="300" />
 
 Advisor: Liang HAN
 
@@ -33,13 +31,14 @@ Suzhou Weimu is a company that develops explosive trace detection equipment. Fac
 3.	无人车平台搭建方面，使用自组装的万向轮无人车，搭载机械手，通过树莓派实现和地面站的信息交换，并通过树莓派控制无人车的运动和机械手的动作。
 4.	协同控制方面，我们通过ROS机器人系统收集并整合无人车的位置、偏航信息，并将信息传入地面站主控程序，通过协同控制算法计算导航数据和设定的表演轨迹得到控制指令。最后将控制指令发送给无人车，实现整个系统的闭环反馈控制。 -->
 
-1. <p style="text-align:justify; text-justify:inter-ideograph;">Communication: Robot Operating System (ROS) is utilized to build a communication network. The positioning system sends navigation information to the ground station through the ROS node, and the ground station sends the control command to the UGV in the same local network through the ROS node to realize feedback control of the multi-UGV formation.</p>
-2. <p style="text-align:justify; text-justify:inter-ideograph;">Navigation: Ultra Wide Band (UWB) positioning system is used to obtain real-time position information of the multi-UGV. An external inertial measurement unit is employed to obtain the UGV's yaw angle, and the yaw angle is sended to the ground station through ROS.</p>
-3. <p style="text-align:justify; text-justify:inter-ideograph;">UGV platform: the self-assembled universal wheel UGV is equipped with a manipulator. The Raspberry Pi is responsible for receiving the pose and attitude information of the UGV and generating the control command for the UGV and the manipulator.</p>
+1. <p style="text-align:justify; text-justify:inter-ideograph;">Vacuum suction table is used to draw the test paper. The utilization of the vacuum suction table can effectively prevent the test paper from being contaminated by other liquids.</p>
+2. <p style="text-align:justify; text-justify:inter-ideograph;">Raspberry Pi is the control center. The control program of servos and the subsequent program used to identify the detection results are all running on the Raspberry Pi. The control commands are issued through the GPIO pins of the Raspberry Pi.</p>
+3. <p style="text-align:justify; text-justify:inter-ideograph;">The slide rail is employed to transport the test paper, and it is considered to replace it with a conveyor belt later. The other small connectors are designed by us with Catia V5 and manufactured by 3D printer.</p>
+
 
 ## Achievements
 
-The following video shows the scene of a coordinated formation of UAVs and UGVs equipped with manipulators. 😎
+The video below shows the demo of the automatic sampling and sample injection and image recognition device that was finally delivered to the company. 😆
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Ulxlb1NkKak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
