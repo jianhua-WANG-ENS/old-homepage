@@ -1,25 +1,23 @@
 ---
-title: "Omnidirectional swarm intelligent robot"
-permalink: /Projects/Omnidirectional-swarm-intelligent-robot/
-excerpt: 👍 We won the **Best Innovation Award** in the "Youth Scientific Innovation Exchanges from China and France"! <br/> <a href="https://jianhua-WANG-BUAA.github.io/Projects/Omnidirectional-swarm-intelligent-robot/"><img src="https://jianhua-WANG-BUAA.github.io/images/Omnidirectional-swarm-intelligent-robot.png" alt="Omnidirectional-swarm-intelligent-robot.png" border="0" width="500" /></a>
+title: "Explosive detection method based on multi-UAV formation"
+permalink: /Projects/Explosive-detection-RL/
+excerpt: Cooperative with Suzhou Weimu Intelligent System Co., Ltd. <br/> <a href="https://jianhua-WANG-BUAA.github.io/Projects/Explosive-detection-RL/"><img src="https://jianhua-WANG-BUAA.github.io/images/MFE-UAV-formation-RL.png" alt="MFE-UAV-formation-RL.png" border="0" width="500" /></a>
 collection: Projects
-date: 2019-10-24
+date: 2020-11-12
 tags:
   - projects
 ---
 
-Duration: Jul. 2019 - Nov. 2019
+Duration: Aug. 2020 - Now
 
-Advisor: Liang HAN
-
-Award: **Best Innovation Award**
+Advisor: Xiaoduo LI
 
 ## Background
 
 <!-- 以麦克纳姆轮为代表的万向轮无人车具有运动灵活，控制简单等优点，能够适应复杂的地形。随着对机械臂模型研究的逐步深入，针对多自由度的复杂机械臂的控制技术日渐完善。由机械臂和万向轮小车组合而成的轮式机器人可以充分发挥二者的优势，能够很好地完成在复杂地形下的物体搬运等任务。 -->
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-The universal wheel unmanned ground vehicle (UGV) represented by the Mecanum wheel has the advantage of flexible movement, and can adapt to complex terrain. With the extensive research on the manipulator model, the control technology for the complex manipulator with multiple degrees of freedom is gradually improving. The wheeled robot, which is composed of a manipulator and a universal wheeled trolley, can give full play to the advantages of both, and can well complete tasks such as object handling under complex terrain.
+Facing the increasing demand for explosives detection, the company plans to employ UAVs equipped with explosive detection device to realize the detection of dangerous goods in a larger range with high crowd density. In order to initially verify the feasibility of the idea, it is planned to use Gazebo virtual simulation software to construct a UAV detection scene, where multi-UAV systems are controlled to form a formation to cover a larger detection range.
 </p>
 
 ## Technical schema
@@ -42,4 +40,4 @@ The following video shows the scene of a coordinated formation of UAVs and UGVs 
 
 ## Team photo 
 
-  <img src="https://jianhua-WANG-BUAA.github.io/images/competition-china-french.jpg" alt="competition-china-french.jpg" border="0"/>
+  <img src="https://jianhua-WANG-BUAA.github.io/images/MFE-UAV-formation-RL.png" alt="MFE-UAV-formation-RL.png" border="0"/>
