@@ -34,11 +34,12 @@ With the popularity of small‐sized commercial  Unmanned Aerial Vehicles (UAVs)
 
 ## My work
 
-1. Redaction of fund project application.
-2. Design of coordinated interception methods for multiple UAVs based on space-time coverage.
-3. Conception of a multi-UAV collaborative intercept application demonstration platform.
+1. <p style="text-align:justify; text-justify:inter-ideograph;">Research on interception technologies of LSS targets and redaction of fund project application.</p>
+2. <p style="text-align:justify; text-justify:inter-ideograph;">Design of coordinated interception methods for multiple UAVs based on space-time coverage.</p>
+3. <p style="text-align:justify; text-justify:inter-ideograph;">Conception of a multi-UAV collaborative intercept application demonstration platform.</p>
 
-The following picture show the Multi-UAV cluster intelligent interception experiment plan for LSS targets. 👇
+<p style="text-align:justify; text-justify:inter-ideograph;">
+The following picture show the Multi-UAV cluster intelligent interception experiment plan for LSS targets. 👇</p>
 
 <img src="https://jianhua-WANG-BUAA.github.io/images/LSS-experiment-scheme.png" alt="LSS-experiment-scheme.png"/>
    
