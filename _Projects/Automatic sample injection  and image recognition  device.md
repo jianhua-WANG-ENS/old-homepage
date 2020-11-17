@@ -10,7 +10,9 @@ tags:
 
 Duration: Nov. 2018 - Mai. 2019
 
-Company:  Suzhou Weimu Intelligent System Co., Ltd. <a href="https://www.weimutech.com/"><img src="https://jianhua-WANG-BUAA.github.io/images/logo-SuzhouWeimu.png" alt="logo-SuzhouWeimu.png" border="0" width="150" /></a>
+Company:  [Suzhou Weimu Intelligent System Co., Ltd.](http://www.weimutech.com/) <img src="https://jianhua-WANG-BUAA.github.io/images/logo-SuzhouWeimu.png" alt="logo-SuzhouWeimu.png" border="0" width="200" />
+
+
 
 Advisor: Liang HAN
 
