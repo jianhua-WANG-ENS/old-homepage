@@ -23,7 +23,7 @@ Suzhou Weimu is a company that develops explosive trace detection equipment. Fac
 </p>
 
 <p style="text-align:center">
-<img src="https://jianhua-WANG-BUAA.github.io/images/pic-SuzhouWeimu-manuel.png" alt="pic-SuzhouWeimu-manuel.png" border="0" width="300" />
+<img src="https://jianhua-WANG-BUAA.github.io/images/pic-SuzhouWeimu-manuel.png" alt="pic-SuzhouWeimu-manuel.png" border="0" width="500" />
 </p>
 
 ## Technical schema
