@@ -25,7 +25,7 @@ Duration: Nov. 2018 - Jun. 2020
 
 <!-- 城市轨道交通作为首都交通网络的中枢神经，对首都经济发展起着重要支撑作用。为进一步提高首都城市轨道交通服务质量，充分发挥多列车协同化运营优势，拟采用多列车编队控制技术来保障多列车高效有序地执行任务。多列车通过虚拟连挂的方式来动态调整它们之间的相对距离，在保证多列车之间安全性的基础上，同时提高了多列车协同运营的效率，避免了传统多列车之间物理连挂，集中式调度控制等问题。 -->
 <p style="text-align:justify; text-justify:inter-ideograph;">
-As the central nerve of the capital's transportation network, urban rail transit plays an important role in supporting the economic development of the capital. In order to further improve the service quality of the capital's urban rail transit and give full play to the advantages of multi-train coordinated operation, it is proposed to adopt multi-train formation control technology to ensure the efficient and orderly execution of tasks by multiple trains. Multiple trains dynamically adjust the relative distance between them through virtual linkage. On the basis of ensuring the safety of multiple trains, it also improves the efficiency of coordinated operation of multiple trains and avoids the physical linkage between traditional multiple trains. , Centralized scheduling control and other issues.
+Urban rail transit systems are of crucial importance for the stability, sustainability, and efficiency of public transportation systems. The number of passengers commuting with urban rail transit systems is more than 10 million per day in big cities, such as Beijing, Shanghai, and Tokyo. During the morning and evening peak hours, especially during workdays, the departure headway between two consecutive services has been recently reduced to 2 min for some busy urban rail transit lines. With the increasing of passenger demand and the saturated operations of trains in urban rail transit lines, it is urgent to explore new train control methods to reduce the consumption of train dispatching during peak hours and improve the efficiency of personnel transportation.
 </p>
 
 ## Research content
@@ -33,7 +33,7 @@ As the central nerve of the capital's transportation network, urban rail transit
 <!-- 本项目拟研究基于虚拟连挂的多列车动态编队控制方法。首先，研究多列车分布式协同系统建模问题，提出基于虚拟连挂的多列车动态编队策略，设计多列车动态编队控制器构型。其次，研究时变编队、切换拓扑、有限时间等约束对动态编队控制的影响，给出在多约束条件下实现多列车动态编队控制的判据。最后，基于自主研发的集群实验平台开展实物验证，通过动态编队控制实验对相关算法进行验证与评估。 -->
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-This project intends to study the dynamic formation control method of multiple trains based on virtual connection. First of all, the modeling problem of multi-train distributed cooperative system is studied, the multi-train dynamic formation strategy based on virtual connection is proposed, and the configuration of multi-train dynamic formation controller is designed. Secondly, the influence of constraints such as time-varying formation, switching topology, and finite time on dynamic formation control is studied, and criteria for realizing multi-train dynamic formation control under multiple constraints are given. Finally, physical verification is carried out based on the self-developed cluster experimental platform, and related algorithms are verified and evaluated through dynamic formation control experiments.
+This project intends to investigate the dynamic formation control method of multiple trains based on virtual connection. First, the modeling problem of multi-train distributed cooperative systems is studied, and the multi-train dynamic formation strategy based on virtual connection is proposed. Then, the effects of constraints such as time delays, switching topology, and finite time on the dynamic formation control are considered. Sufficient conditions for multi-train systems to realize a time-varying formation under multiple constraints are given. Finally, based on the self-developed swarm experimental platform, multi-train time-varying formation experiments are carried out to verify the effectiveness of the proposed control protocols.  
 </p>
 
 
@@ -41,9 +41,9 @@ This project intends to study the dynamic formation control method of multiple t
 
 In this project, my work mainly includes the following three parts:
 
-1. I have participated in the redaction of the project application in the early stage.
-2. I have designed the multi-train formation tracking control protocols under multiple constraints like switching topologies and time-delays.
-3. I was responsible for constructing a multi-train formation demonstration platform based on Lego EV3.
+1. <p style="text-align:justify; text-justify:inter-ideograph;"> I have investigated the research of cooperative technologies in the field of urban rail transit and participated in the redaction of the project application in the early stage.</p>
+2. <p style="text-align:justify; text-justify:inter-ideograph;">I have designed the multi-train formation tracking control protocols under multiple constraints like switching topologies and time-delays.</p>
+3. <p style="text-align:justify; text-justify:inter-ideograph;">I was responsible for constructing a multi-train formation demonstration platform based on Lego EV3 and Optitrack indoor positioning system.</p>
 
 
 ## Achievements
