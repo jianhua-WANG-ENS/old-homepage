@@ -1,24 +1,28 @@
 ---
 title: "Automatic sample injection and image recognition device"
 permalink: /Projects/Automatic-sample-injection-device/
-excerpt: 👍 We won the **Best Innovation Award** in the "Youth Scientific Innovation Exchanges from China and France"! <br/> <a href="https://jianhua-WANG-BUAA.github.io/Projects/Automatic-sample-injection-device/"><img src="https://jianhua-WANG-BUAA.github.io/images/Automatic-sample-injection-device.png" alt="Automatic-sample-injection-device.png" border="0" width="500" /></a>
+excerpt: Cooperative with Suzhou Weimu Intelligent System Co., Ltd.  <br/> <a href="https://jianhua-WANG-BUAA.github.io/Projects/Automatic-sample-injection-device/"><img src="https://jianhua-WANG-BUAA.github.io/images/Automatic-sample-injection-device.png" alt="Automatic-sample-injection-device.png" border="0" width="500" /></a>
 collection: Projects
 date: 2019-05-23
 tags:
   - projects
 ---
 
-Date: Mai. 2019
+Duration: Nov. 2018 - Mai. 2019
+
+Company:  Suzhou Weimu Intelligent System Co., Ltd. <a href="https://www.weimutech.com/"><img src="https://jianhua-WANG-BUAA.github.io/images/logo-SuzhouWeimu.png" alt="logo-SuzhouWeimu.png" border="0" width="150" /></a>
 
 Advisor: Liang HAN
 
 ## Background
 
-<!-- 以麦克纳姆轮为代表的万向轮无人车具有运动灵活，控制简单等优点，能够适应复杂的地形。随着对机械臂模型研究的逐步深入，针对多自由度的复杂机械臂的控制技术日渐完善。由机械臂和万向轮小车组合而成的轮式机器人可以充分发挥二者的优势，能够很好地完成在复杂地形下的物体搬运等任务。 -->
+<!-- 苏州微木是一家研制爆炸物痕迹检测设备的公司。面对逐步增加的爆炸物检测的需要，传统的人工逐个检测已经无法满足客户的需求。同时，传统的人工检测存在容易引入污染、存在人工误差等缺点。因此，公司希望我们能够设计一套实现采样、检测和结果识别的自动化系统。 -->
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-The universal wheel unmanned ground vehicle (UGV) represented by the Mecanum wheel has the advantage of flexible movement, and can adapt to complex terrain. With the extensive research on the manipulator model, the control technology for the complex manipulator with multiple degrees of freedom is gradually improving. The wheeled robot, which is composed of a manipulator and a universal wheeled trolley, can give full play to the advantages of both, and can well complete tasks such as object handling under complex terrain.
+Suzhou Weimu is a company that develops explosive trace detection equipment. Faced with the increasing demand for explosives detection, traditional manual detection one by one can no longer meet the needs of customers. At the same time, traditional manual detection has the disadvantages of easily introducing pollution and artificial errors. Therefore, the company hopes that we can design an automated system for sampling, testing and result identification.
 </p>
+
+<img src="https://jianhua-WANG-BUAA.github.io/images/pic-SuzhouWeimu-manuel.gif" alt="pic-SuzhouWeimu-manuel.gif" border="0" width="300"/>
 
 ## Technical scheme
 
@@ -38,6 +42,6 @@ The following video shows the scene of a coordinated formation of UAVs and UGVs 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Ulxlb1NkKak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## Poster 
+## Poster (in French)
 
-  <img src="https://jianhua-WANG-BUAA.github.io/images/poster_projet_PIC.jpg" alt="poster_projet_PIC.jpg" border="0"/>
+  <img src="https://jianhua-WANG-BUAA.github.io/images/pic-poster.jpg" alt="pic-poster.jpg" border="0"/>
