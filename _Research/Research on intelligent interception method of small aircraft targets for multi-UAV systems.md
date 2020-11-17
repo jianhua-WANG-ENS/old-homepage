@@ -1,93 +1,43 @@
 ---
-title: "Research on intelligent interception method of small aircraft targets for multi-UAV systems"
-permalink: /Research/small-aircraft/
-excerpt: Application for Beijing Natural Science Foundation. <br/> <a href="https://jianhua-WANG-BUAA.github.io/Research/small-aircraft/"><img src="https://jianhua-WANG-BUAA.github.io/images/small-aircraft-interception.jpg" alt="small-aircraft-interception.jpg" border="0" width="500"/></a>
+title: "Research on intelligent interception method of LSS targets for multi-UAV systems"
+permalink: /Research/LSS-targets/
+excerpt: Application for Beijing Natural Science Foundation. <br/> <a href="https://jianhua-WANG-BUAA.github.io/Research/LSS-targets/"><img src="https://jianhua-WANG-BUAA.github.io/images/LSS-targets-interception.jpg" alt="LSS-targets-interception.jpg" border="0" width="500"/></a>
 collection: Research
 date: 2020-06-05
 tags:
   - research
 ---
 
+Duration: Jun. 2020 - Now
+
+## Background 
+
+<!-- “低慢小”目标一般指的是低空、慢速、小型的飞行器。以典型“低慢小”目标-多旋翼无人机为例，该类无人机制作成本低，体积小，难探测，可远程控制，具备一定负载能力，可搭载摄像头并实时回传高清图像，对公共安全构成了极大威胁。一旦被恐怖分子利用，可实现低空侦查、窥探隐私等非法活动；能够运输违禁品，扰乱航空秩序，实施自杀式攻击等犯罪行为，对首都安全产生了严重影响。为应对“低慢小”目标带来的安全风险，需要在其未进入禁飞区前对其拦截，并通过物理手段将其控制，确保空域安全。 -->
+
+<p style="text-align:justify; text-justify:inter-ideograph;">
+With the popularity of small‐sized commercial  Unmanned Aerial Vehicles (UAVs), hostile use of Low, Slow and Small (LSS) UAVs become one of the most intensively developing threats for civilian and military spheres. The LSS UAV is characterized as a low altitude, slow speed, and small radar cross-section (RCS) target and is considered difficult to be detected. The LSS UAVs began to be widely used by militaries and non‐state actors (terrorist, insurgent, criminal, corporate and activist threat groups) all over the world. Therefore, it is urgent to develop new interception technologies for LSS targets.  
+</p>
+
+## Research content
+
+<!-- 1. 研究基于视觉的多无人机协同目标跟踪问题，通过多源异构的传感器探测并识别“低慢小”目标，将获取的信息进行分布式融合，获取目标运动状态信息。
+2. 研究基于分布式优化的多无人机协同拦截决策问题，建立多无人机系统的分布式目标优化函数模型，设计基于分布式优化的多无人机协同拦截决策算法。
+3. 研究基于时空覆盖的多无人机协同编队拦截方法，引入拦截时间与编队构型约束，设计多无人机编队拦截控制器，分析时空约束下的编队拦截控制器稳定性。 -->
+
+1. <p style="text-align:justify; text-justify:inter-ideograph;">Research the vision-based multi-UAV cooperative target tracking problem, detect and identify the LSS targets through multi-source heterogeneous sensors, and perform distributed fusion of the acquired information to obtain target motion state information.</p>
+2. <p style="text-align:justify; text-justify:inter-ideograph;">Research the decision-making problem of multi-UAV cooperative interception based on distributed optimization, establish a distributed objective optimization function model of multi-UAV system, and design a multi-UAV cooperative intercept decision-making algorithm based on distributed optimization.</p>
+3. <p style="text-align:justify; text-justify:inter-ideograph;">Research the multi-UAV cooperative formation interception method based on time-space coverage, introduce the interception time and formation configuration constraints, design the multi-UAV formation interception controller, and analyze the stability of the formation interception controller under the space-time constraints.</p>
+
+
+
+## My work
+
 1. Redaction of fund project application.
 2. Design of coordinated interception methods for multiple UAVs based on space-time coverage.
-3. Construction of a multi-UAV collaborative intercept application demonstration platform.
+3. Conception of a multi-UAV collaborative intercept application demonstration platform.
 
-## Overview
+The following picture show the Multi-UAV cluster intelligent interception experiment plan for LSS targets. 👇
 
-Duration: Nov. 2017 - Nov. 2018
-
-We participated in **the 28th "Feng Ru Cup" Competition of Academic and Technological Works**,  and won the second prize. Please watch this video or read the article below for more information.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U4IfWXl7zYE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-In order to strengthen the autonomy and reliability of UAVs under **no GNSS** condition, by imitating efficient navigation principle of birds and insects, we designed a new type of bionic integrated navigation system  based on **the inertial measurement unit (IMU), the bionic polarized light sensor (BPS), and air data system (ADS)**. 
-
-<img src="https://s2.ax1x.com/2019/10/10/uTXV2R.png" alt="uTXV2R.png" border="0"/>
-
-The BPS provides useful heading angle information, and the ADS can continuously provide speed and altitude information. At the same time, the **Kalman filter** is selected for information fusion of subsystems. The polarization sensor is designed and manufactured by ourselves. 
-
-IMU: MPU9250
-
-BPS: BH1750
-
-ADS: MS4525DO
-
-MCU: STM32F103C8T6
-
-## Achievements
-
-| Schematic                                                    | PCB diagram                                                  |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="https://s2.ax1x.com/2019/10/07/uRffmD.png" alt="uRffmD.png" border="0" width="500"> | <img src="https://s2.ax1x.com/2019/10/07/uRfotA.png" alt="uRfotA.png" border="0" width="400"> |
-| **Circuit board of the polarization sensor**                 | **Add lenses**                                               |
-| <img src="https://s2.ax1x.com/2019/10/07/uR5GYd.jpg" alt="uR5GYd.jpg" border="0" width="400"/> | <img src="https://s2.ax1x.com/2019/10/16/KkVenx.jpg" alt="KkVenx.jpg" border="0" width="450"/> |
-
-The polarization sensor is calibrated indoors, with an error of **0.1°** in an ideal state.
-
-To verify the accuracy of the integrated navigation system, we first carried out software simulation. In the simulation, we assume that the aircraft performs uniform linear motion and is interfered with GPS signals at 300s and 600s. The chart shows a comparison of heading angle errors.
-
-<img src="https://s2.ax1x.com/2019/10/07/uRfIkd.png" alt="uRfIkd.png" border="0" width="600">
-
-At 300s and 600s, due to GPS interference, the green curve fluctuates in a broad range, while the blue curve is relatively stable.
-
-These two figures show comparisons between the pitch angle error and rolling angle error.  
-
-|                      Pitch angle error                       |                       Roll angle error                       |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://s2.ax1x.com/2019/10/07/uRfHpt.png" alt="uRfHpt.png" border="0"> | <img src="https://s2.ax1x.com/2019/10/07/uRfb1P.png" alt="uRfb1P.png" border="0"> |
-
-When the GPS signal is not disturbed, both navigation systems can ensure the accuracy and stability of pitch angle and roll angle measurement. But when GPS interference occurs, the two measurement values (green curve) of the GPS/SINS system produce significant errors. The performance of the proposed autonomous navigation system is not affected.
-
-This figure is a comparison of velocity errors.
-
-<img src="https://s2.ax1x.com/2019/10/07/uRfq6f.png" alt="uRfq6f.png" border="0">
-
-As can be seen from the error diagram, the error curve (green part) of GPS/SINS system showed high fluctuation at 300s and 600s, while the speed of the INS/ADS/BPS system flying eastward was not affected, which could maintain the accuracy and stability for a long time.
-
-Then we conducted **an outdoor flight experiment** to test the dynamic performance of the system. The experimental results were a comparison of the attitude angle between our system and the GPS/SINS  system.
-
-<img src="https://s2.ax1x.com/2019/10/16/KkVVj1.jpg" alt="KkVVj1.jpg" border="0" />
-
-After establishing communication with the UAV, we collected data through the computer, and observed the waveform of attitude angle. Then we took the data solved by the GPS as a reference, marked the figure as the blue line, and marked the data solved by the combined navigation system as the red line.
-
-|                        The roll angle                        |                       The pitch angle                        |      |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | ---- |
-| <img src="https://s2.ax1x.com/2019/10/07/uRf26K.png" alt="uRf26K.png" border="0"> | <img src="https://s2.ax1x.com/2019/10/07/uRfROO.png" alt="uRfROO.png" border="0"> |      |
-
-|                      The heading angle                       |
-| :----------------------------------------------------------: |
-| <img src="https://s2.ax1x.com/2019/10/07/uRfgl6.png" alt="uRfgl6.png" border="0" width="400"> |
-
-The experimental results show that the attitude angle outputted by INS/ADS/BPS navigation system is close to that of the GPS and IMU system in terms of accuracy and stability. Although the experiment is still in the preliminary stage, it proves that the proposed system is a feasible and reliable autonomous navigation scheme in real flight. 
-
-In the future, we hope to introduce advanced data fusion methods such as nonlinear and anti-interference Kalman filters into the system to further improve its accuracy and robustness. We also plan to test the system in a complex environment with GNSS interference.
-
-## Division
-
-Advisors: *Prof.* GUO Lei, *Dr.* ZHANG Xiao
-
-Circuit design and flight experiments: **LI Jinjie**, WANG Shanpeng
-
-Programming and simulation: GUO Xiaoyu, HUANG Zhenhuan
-
-Other work: ZHAO Xueyuan, ZHANG Ruijiang
+<img src="https://jianhua-WANG-BUAA.github.io/images/LSS-experiment-scheme.png" alt="LSS-experiment-scheme.png" border="0" width="500"/>
+   
 
