@@ -1,11 +1,11 @@
 ---
 title: "Research on intelligent interception method of small aircraft targets for multi-UAV systems"
-permalink: /Projects/small-aircraft/
-excerpt: Application for Beijing Natural Science Foundation. <br/> <a href="https://jianhua-WANG-BUAA.github.io/Projects/small-aircraft/"><img src="https://jianhua-WANG-BUAA.github.io/images/small-aircraft-interception.jpg" alt="small-aircraft-interception.jpg" border="0" width="500"/></a>
-collection: Projects
+permalink: /Research/small-aircraft/
+excerpt: Application for Beijing Natural Science Foundation. <br/> <a href="https://jianhua-WANG-BUAA.github.io/Research/small-aircraft/"><img src="https://jianhua-WANG-BUAA.github.io/images/small-aircraft-interception.jpg" alt="small-aircraft-interception.jpg" border="0" width="500"/></a>
+collection: Research
 date: 2020-06-05
 tags:
-  - projects
+  - research
 ---
 
 1. Redaction of fund project application.

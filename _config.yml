@@ -117,7 +117,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  weixin           : lijinjie1997
+  weixin           : 
 
 
 # Reading Files
@@ -181,6 +181,9 @@ collections:
   # Publications:
   #   output: true
   #   permalink: /:collection/:path/
+  Research:
+    output: true
+    permalink: /:collection/:path/
   Projects:
     output: true
     permalink: /:collection/:path/
@@ -212,16 +215,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _Publications
-  # - scope:
-  #     path: ""
-  #     type: Publications
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     # read_time: false
-  #     share: false
-  #     comments: false
+  # _Research
+  - scope:
+      path: ""
+      type: Research
+    values:
+      layout: single
+      author_profile: true
+      # read_time: false
+      share: false
+      comments: false
   # _Projects
   - scope:
       path: ""
