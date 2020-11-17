@@ -22,9 +22,9 @@ Advisor: Liang HAN
 Suzhou Weimu is a company that develops explosive trace detection equipment. Faced with the increasing demand for explosives detection, traditional manual detection one by one can no longer meet the needs of customers. At the same time, traditional manual detection has the disadvantages of easily introducing pollution and artificial errors. Therefore, the company hopes that we can design an automated system for sampling, testing and result identification.
 </p>
 
-<img src="https://jianhua-WANG-BUAA.github.io/images/pic-SuzhouWeimu-manuel.gif" alt="pic-SuzhouWeimu-manuel.gif" border="0" width="300"/>
+<img src="https://jianhua-WANG-BUAA.github.io/images/pic-SuzhouWeimu-manuel.png" alt="pic-SuzhouWeimu-manuel.png" border="0" width="300" align="center"/>
 
-## Technical scheme
+## Technical schema
 
 <!-- 1.	通信方面，该项目使用ROS搭建通信网络。导航定位系统通过ROS节点将导航信息发送至地面站，地面站将控制指令通过ROS节点发送到处于同一局域网的无人车，实现对无人车编队的反馈控制。
 2.	导航方面，该项目采用UWB定位系统来获取无人车编队的实时位置信息，采用外置的惯性测量单元获取无人车的偏航信息。并将这些信息通过ROS发送到地面站。
@@ -38,9 +38,11 @@ Suzhou Weimu is a company that develops explosive trace detection equipment. Fac
 
 ## Achievements
 
+<p style="text-align:justify; text-justify:inter-ideograph;">
 The video below shows the demo of the automatic sampling and sample injection and image recognition device that was finally delivered to the company. 😆
+</p>
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Ulxlb1NkKak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/Ulxlb1NkKak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Poster (in French)

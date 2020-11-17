@@ -22,7 +22,7 @@ Award: **Best Innovation Award**
 The universal wheel unmanned ground vehicle (UGV) represented by the Mecanum wheel has the advantage of flexible movement, and can adapt to complex terrain. With the extensive research on the manipulator model, the control technology for the complex manipulator with multiple degrees of freedom is gradually improving. The wheeled robot, which is composed of a manipulator and a universal wheeled trolley, can give full play to the advantages of both, and can well complete tasks such as object handling under complex terrain.
 </p>
 
-## Technical scheme
+## Technical schema
 
 <!-- 1.	通信方面，该项目使用ROS搭建通信网络。导航定位系统通过ROS节点将导航信息发送至地面站，地面站将控制指令通过ROS节点发送到处于同一局域网的无人车，实现对无人车编队的反馈控制。
 2.	导航方面，该项目采用UWB定位系统来获取无人车编队的实时位置信息，采用外置的惯性测量单元获取无人车的偏航信息。并将这些信息通过ROS发送到地面站。
