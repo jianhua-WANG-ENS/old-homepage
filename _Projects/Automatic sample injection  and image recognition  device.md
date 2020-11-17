@@ -22,7 +22,9 @@ Advisor: Liang HAN
 Suzhou Weimu is a company that develops explosive trace detection equipment. Faced with the increasing demand for explosives detection, traditional manual detection one by one can no longer meet the needs of customers. At the same time, traditional manual detection has the disadvantages of easily introducing pollution and artificial errors. Therefore, the company hopes that we can design an automated system for sampling, testing and result identification.
 </p>
 
-<img src="https://jianhua-WANG-BUAA.github.io/images/pic-SuzhouWeimu-manuel.png" alt="pic-SuzhouWeimu-manuel.png" border="0" width="300" align="center"/>
+<p style="text-align:center">
+<img src="https://jianhua-WANG-BUAA.github.io/images/pic-SuzhouWeimu-manuel.png" alt="pic-SuzhouWeimu-manuel.png" border="0" width="300" />
+</p>
 
 ## Technical schema
 
