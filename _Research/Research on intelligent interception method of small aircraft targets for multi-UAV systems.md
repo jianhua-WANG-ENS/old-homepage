@@ -38,6 +38,6 @@ With the popularity of small‐sized commercial  Unmanned Aerial Vehicles (UAVs)
 
 The following picture show the Multi-UAV cluster intelligent interception experiment plan for LSS targets. 👇
 
-<img src="https://jianhua-WANG-BUAA.github.io/images/LSS-experiment-scheme.png" alt="LSS-experiment-scheme.png" border="0" width="500"/>
+<img src="https://jianhua-WANG-BUAA.github.io/images/LSS-experiment-scheme.png" alt="LSS-experiment-scheme.png"/>
    
 
