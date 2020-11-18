@@ -28,9 +28,15 @@ I have the ability to use ROS-Gazebo for virtual simulation verification and the
 Believing in the principle of "<b>Learning by doing</b>", I participated in many projects in university. These projects are hard to be presented in words, so I created this site to <b>visualize</b> the <a href="https://jianhua-wang-buaa.github.io/Projects/">Projects</a> I've worked on.
 </p>
 
+<p style="text-align:justify; text-justify:inter-ideograph;">
+Since the summer of 2018, I have been carrying out scientific research with Prof. HAN Liang in the Sino-French UAV Laboratory. During my master's degree, I have participated in many projects and have made some achievements in the field of multi-agent system cooperative control. You can find the research results in <a href="https://jianhua-wang-buaa.github.io/Publications/">Publications</a>, <a href="https://jianhua-wang-buaa.github.io/Publications/">Research</a>, and <a href="https://jianhua-wang-buaa.github.io/Publications/">Projects</a>.
+</p>
+
+<!-- My research fields mainly include cooperative control of multi-agent systems and formation tracking control of multi-UAV systems.  -->
+
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-In addition, I posted my reports of assignments in <a href="https://jianhua-wang-buaa.github.io/Projects/">Assignments</a> and photography works in <a href="https://jianhua-wang-buaa.github.io/Projects/">Portfolio</a>, and you can contact me through <a href="https://jianhua-wang-buaa.github.io/cv/">CV&Contact</a>.
+If you are interested in my research work or have any questions, don't hesitate to contact me through <a href="https://jianhua-wang-buaa.github.io/cv/">CV&Contact</a> ! 😉
 </p>
 
 
