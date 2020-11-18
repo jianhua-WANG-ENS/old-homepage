@@ -24,8 +24,10 @@ The unmanned swarm has the ability to emerge from the effective collaboration of
 
 <!-- 开发基于虚拟的异构无人集群攻防对抗仿真平台。攻防双方在生成的地图上拥有各自的阵地，参赛队开发群体智能协同算法，采用一定数量的无人机和无人车相互配合，协同搜索、识别和摧毁对方阵地内的静止和移动目标，同时协同拦截对方的无人机和无人车，保护己方的指挥所不被摧毁。其中，无人机具备协同探测和多机协同摧毁对方无人机的能力；无人车具协同探测和摧毁地面目标的能力；两者之间可以互相通信和协同。 -->
 
+multi-UAV/UGV swarm attack and defense platform
+
 <p style="text-align:justify; text-justify:inter-ideograph;">
-Develop a virtual heterogeneous unmanned cluster attack and defense countermeasure simulation platform. The offensive and defensive sides have their own positions on the generated map. The participating teams develop a group intelligent collaborative algorithm, and use a certain number of drones and unmanned vehicles to cooperate with each other to collaboratively search, identify and destroy stationary and moving targets in the opponent's position. Coordinately intercept the opponent's drones and unmanned vehicles to protect your command post from being destroyed. Among them, UAVs have the ability to coordinate detection and multi-aircraft to destroy each other's UAVs; unmanned vehicles have the ability to coordinate detection and destruction of ground targets; the two can communicate and cooperate with each other.
+The objective of this project is to develop a multi-UAV/UGV swarm attack and defense platform. The offensive and defensive sides have their own positions on the generated map. The players of participating teams will design intelligent cooperative swarm algorithms to control their UAVs and UGVs. More specifically, The players will employ a certain number of UAVs and UGVs to cooperate with each other to search, identify and destroy stationary and moving targets in the opponent's position, and at the same time to intercept the opponent's UAVs UGVs to protect their command post. The Matlab/Python control interface will be designed and opened to players to control the UAVs and UGVs.
 </p>
 
 ## My work
@@ -36,15 +38,6 @@ Develop a virtual heterogeneous unmanned cluster attack and defense countermeasu
 
 ## Achievements
 
-This competition requires each team to design and manufacture an aircraft which should satisfy the following requirements:
-
-1. Driven by an internal combustion engine
-
-2.  Remotely controlled to take off from a specific area
-
-3.  Carry an amount of water as load
-
-4. Can release the load after flying to a certain height (18m) above the release area. 
-
+The demo of the air-ground cooperative countermeasure platform is as follows: 👇
 
 <iframe width="908" height="511" src="https://www.youtube.com/embed/1x9h_GIftvc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
