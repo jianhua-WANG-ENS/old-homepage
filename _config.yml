@@ -187,7 +187,7 @@ collections:
   Projects:
     output: true
     permalink: /:collection/:path/
-  Competitions:
+  Awards:
     output: true
     permalink: /:collection/:path/
   Experiences:
@@ -235,10 +235,10 @@ defaults:
       # read_time: false
       share: false
       comments: false
-  # _Competitions
+  # _Awards
   - scope:
       path: ""
-      type: Competitions
+      type: Awards
     values:
       layout: single
       author_profile: true

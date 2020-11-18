@@ -9,12 +9,12 @@ main:
 
   - title: "Projects"
     url: /Projects/    
-    
-  - title: "Competitions"
-    url: /Competitions/
 
   - title: "Experiences"
     url: /Experiences/
+
+  - title: "Awards"
+    url: /Awards/
 
   - title: "CV&Contact"
     url: /cv/

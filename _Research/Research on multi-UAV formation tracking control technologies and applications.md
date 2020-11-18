@@ -30,10 +30,10 @@ This project focuses on the formation tracking control problem of multi-UAV syst
 
 ## My work
 
-1. Design of the multi-UAV cooperative formation tracking controller.
-2. Verification of the controller's stability via Matlab and Simulink simulations.
-3. Construction of the multi-UAV virtual formation platform based on ROS and Gazebo simulator.
-4. Development of a multi-UAV formation experimental platform based on the indoor positioning system.
+1. <p style="text-align:justify; text-justify:inter-ideograph;">Design of the multi-UAV cooperative formation tracking controller.</p>
+2. <p style="text-align:justify; text-justify:inter-ideograph;">Verification of the controller's stability via Matlab and Simulink simulations.</p>
+3. <p style="text-align:justify; text-justify:inter-ideograph;">Construction of the multi-UAV virtual formation platform based on ROS and Gazebo simulator.</p>
+4. <p style="text-align:justify; text-justify:inter-ideograph;">Development of a multi-UAV formation experimental platform based on the indoor positioning system.</p>
 
 ## Achievements
 
