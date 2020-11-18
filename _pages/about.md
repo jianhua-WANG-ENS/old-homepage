@@ -15,23 +15,18 @@ My research interests include coopertive control of multi-agent systems, formati
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
 Hello! My name is WANG Jianhua. I received my B.E. degree in Mathematics and Applied Mathematics from Beihang University, Beijing, China, in 2018. I am currently a postgraduate student at <a href="http://ecpknen.buaa.edu.cn/">Centrale Pékin</a>, <a href="https://ev.buaa.edu.cn/">Beihang University</a>, under the supervision of <a href="https://www.hanliang.pro/">Prof. HAN Liang</a>, majoring in Automation and Reinforcement Learning.
-My research interests include coopertive control of multi-agent systems, formation tracking control of multi-UAV systems, and reinforcement learning for multi-agent systems. I have the ability to use ROS-Gazebo for virtual simulation verification and the use of quadrotor UAVs for swarm experimental verification. I have a strong interest in intelligent control and automatic control and other related directions.
+My research interests include coopertive control of multi-agent systems, formation tracking control of multi-UAV systems, and reinforcement learning for multi-agent systems. You can find the research achievements in <a href="https://jianhua-wang-buaa.github.io/Publications/">Publications</a>, <a href="https://jianhua-wang-buaa.github.io/Publications/">Research</a>, and <a href="https://jianhua-wang-buaa.github.io/Publications/">Projects</a>.
 </p>
+
+<!-- My research fields mainly include cooperative control of multi-agent systems, formation tracking control of multi-UAV systems, robust control, and reinforcement learning.  -->
 
 <!-- 从2014年至今，我接受了6.5年的完整通用工程师培养，精通英法双语。预科阶段的学习让我具有扎实的数学物理基础，工程师阶段的训练使我具备了多学科交叉融合能力。 -->
 
 <!-- 本人乐观向上、工作认真负责、自我驱动力强，具备较强的团队协作能力、热爱尝试新事物、并乐于助人。 -->
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-Since 2014, I have received 6.5 years of complete <b>general engineer</b> education, and I am proficient in both English and French. The study at the preparatory stage gave me a solid foundation in mathematics and physics, and the training at the engineer stage provided me with ability to integrate multiple disciplines. I am optimistic, responsible, and self-motivated, have strong teamwork skills, love to try new things, and willing to help others.  
+Since 2014, I have received 6.5 years of complete <b>general engineer</b> education, and I am proficient in both English and French. The study at the preparatory stage gave me a solid foundation in mathematics and physics, and the training at the engineer stage provided me with ability to integrate multiple disciplines. I am optimistic, responsible, and self-motivated, have strong teamwork skills, love to try new things, and willing to help others. You can find my voluntary activities in <a href="https://jianhua-wang-buaa.github.io/Experiences/">Experiences</a>. 
 </p>
-
-<p style="text-align:justify; text-justify:inter-ideograph;">
-Since the summer of 2018, I have been carrying out scientific research with Prof. HAN Liang in the Sino-French UAV Laboratory. During my masters, I have participated in many projects and have made some achievements in the field of multi-agent system cooperative control. You can find the details in <a href="https://jianhua-wang-buaa.github.io/Publications/">Publications</a>, <a href="https://jianhua-wang-buaa.github.io/Publications/">Research</a>, and <a href="https://jianhua-wang-buaa.github.io/Publications/">Projects</a>.
-</p>
-
-<!-- My research fields mainly include cooperative control of multi-agent systems and formation tracking control of multi-UAV systems.  -->
-
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
 If you are interested in my research work or have any questions, don't hesitate to contact me through <a href="https://jianhua-wang-buaa.github.io/cv/">CV&Contact</a> ! 😉
