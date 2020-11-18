@@ -23,11 +23,6 @@ I have excellent grades in school, optimistic, serious and responsible, strong t
 I have the ability to use ROS-Gazebo for virtual simulation verification and the use of quadrotor UAVs for swarm experimental verification. I have a strong interest in intelligent control and automatic control and other related directions.
 </p>
 
-
-<p style="text-align:justify; text-justify:inter-ideograph;">
-Believing in the principle of "<b>Learning by doing</b>", I participated in many projects in university. These projects are hard to be presented in words, so I created this site to <b>visualize</b> the <a href="https://jianhua-wang-buaa.github.io/Projects/">Projects</a> I've worked on.
-</p>
-
 <p style="text-align:justify; text-justify:inter-ideograph;">
 Since the summer of 2018, I have been carrying out scientific research with Prof. HAN Liang in the Sino-French UAV Laboratory. During my master's degree, I have participated in many projects and have made some achievements in the field of multi-agent system cooperative control. You can find the research results in <a href="https://jianhua-wang-buaa.github.io/Publications/">Publications</a>, <a href="https://jianhua-wang-buaa.github.io/Publications/">Research</a>, and <a href="https://jianhua-wang-buaa.github.io/Publications/">Projects</a>.
 </p>
