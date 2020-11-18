@@ -19,18 +19,18 @@ My research interests include coopertive control of multi-agent systems, formati
 </p>
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-I have excellent grades in school, optimistic, serious and responsible, strong teamwork ability, strong self-driving force, and love to try new things. I have received a complete European general engineer education, and am proficient in English and French bilingualism. I have a solid foundation in mathematics and physics, and have the ability to cross-integrate multi-disciplinary knowledge. 
+I have excellent grades in school, optimistic, serious and responsible, strong teamwork ability, strong self-driving force, and love to try new things. I have received a complete <b>European general engineer education</b>, and am proficient in English and French bilingualism. I have a solid foundation in mathematics and physics, and have the ability to cross-integrate multi-disciplinary knowledge. 
 I have the ability to use ROS-Gazebo for virtual simulation verification and the use of quadrotor UAVs for swarm experimental verification. I have a strong interest in intelligent control and automatic control and other related directions.
 </p>
 
 
+<p style="text-align:justify; text-justify:inter-ideograph;">
+Believing in the principle of "<b>Learning by doing</b>", I participated in many projects in university. These projects are hard to be presented in words, so I created this site to <b>visualize</b> the <a href="https://jianhua-wang-buaa.github.io/Projects/">Projects</a> I've worked on.
+</p>
 
-Believing in the principle of "**Learning by doing**", I participated in many projects in university. These projects are hard to be presented in words, so I created this site to **visualize** the  [Projects](https://lijinjie.top/Projects/) I've worked on.
-
-
-In addition, I posted my reports of assignments in [Assignments](https://lijinjie.top/Assignments/) and photography works in [Portfolio](https://lijinjie.top/portfolio/), and you can contact me through [CV&Contact](https://lijinjie.top/cv/).
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
+In addition, I posted my reports of assignments in <a href="https://jianhua-wang-buaa.github.io/Projects/">Assignments</a> and photography works in <a href="https://jianhua-wang-buaa.github.io/Projects/">Portfolio</a>, and you can contact me through <a href="https://jianhua-wang-buaa.github.io/cv/">CV&Contact</a>.
 </p>
 
 
