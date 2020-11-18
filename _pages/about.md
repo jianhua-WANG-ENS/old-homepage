@@ -10,33 +10,17 @@ redirect_from:
 
 <img src="https://jianhua-WANG-BUAA.github.io/images/jianhuaWANG-paysage.jpg" alt="jianhuaWANG-paysage.jpg" border="0" />
 
-Hello! My name is WANG Jianhua and I am currently a postgraduate student of [Centrale Pékin](http://ecpknen.buaa.edu.cn/), [Beihang University](https://ev.buaa.edu.cn/), under the supervision of [Prof. HAN Liang](https://www.hanliang.pro/), majoring in Automation and Reinforcement Learning. Aiming to be **A FULL-STACK ROBOTICIST**, I have decided to continue my postgraduate study in the field of robotics.
+<p style="text-align:justify; text-justify:inter-ideograph;">
+Hello! My name is WANG Jianhua. I have received my B.E. degree in Mathematics and Applied Mathematics from Beihang University, Beijing, China, in 2018. I am currently a postgraduate student at [Centrale Pékin](http://ecpknen.buaa.edu.cn/), [Beihang University](https://ev.buaa.edu.cn/), under the supervision of [Prof. HAN Liang](https://www.hanliang.pro/), majoring in Automation and Reinforcement Learning.
+My research interests include coopertive control of multi-agent systems, formation tracking control of multi-UAV systems, and reinforcement learning for multi-agent systems.
+</p>
 
-
-
+<p style="text-align:justify; text-justify:inter-ideograph;">
 Believing in the principle of "**Learning by doing**", I participated in many projects in university. These projects are hard to be presented in words, so I created this site to **visualize** the  [Projects](https://lijinjie.top/Projects/) I've worked on.
+</p>
 
+<p style="text-align:justify; text-justify:inter-ideograph;">
 In addition, I posted my reports of assignments in [Assignments](https://lijinjie.top/Assignments/) and photography works in [Portfolio](https://lijinjie.top/portfolio/), and you can contact me through [CV&Contact](https://lijinjie.top/cv/).
+</p>
 
-
-
----
-
-### Projects in Beihang Aeromodelling Team
-
-I take pride in being a member of the Beihang Aeromodelling Team, an international first-class aviation innovation activity group for undergraduate students. 
-
-I participated in the **CADC** (China Aeromodelling Design Challenge) competitions in 2017 and 2018. My projects are listed below：
-
-|                   Composite Team leader 👍👍                   |                           Pilot 👍                            |                          Fresh man                           |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <a href="https://lijinjie.top/Projects/Composite_material/"><img src="https://s2.ax1x.com/2019/10/09/u57nlF.jpg" alt="u57nlF.jpg" border="0" width="500" /></a> | <a href="https://lijinjie.top/Projects/Solar_Aircraft/"><img src="https://s2.ax1x.com/2019/08/08/e723Zt.md.jpg" alt="e723Zt.jpg" border="0" width="500" /></a> | <a href="https://lijinjie.top/Projects/Helicopter_grab/"><img src="https://s2.ax1x.com/2019/10/03/u05vYF.jpg" alt="u05vYF.jpg" border="0" width="500" /></a> |
-
-<img src="https://s2.ax1x.com/2019/10/10/u7dwFA.jpg" alt="u7dwFA.jpg" border="0" />
-
-### Other Projects
-
-|                   Temperature Controller 👍                   |                 “Feng Ru Cup” competition 👍                  |                          Internship                          |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <a href="https://lijinjie.top/Projects/Temperature_Controller/"><img src="https://s2.ax1x.com/2019/10/16/KkV33d.jpg" alt="KkV33d.jpg" border="0" width="500" /></a> | <a href="https://lijinjie.top/Projects/Navigation_System/"><img src="https://s2.ax1x.com/2019/10/07/uRR5uD.png" alt="uRR5uD.png" border="0" width="500"/></a> | <a href="https://lijinjie.top/Projects/DTAB/"><img src="https://s2.ax1x.com/2019/10/07/u2VuaF.png" alt="u2VuaF.png" border="0" width="500"/></a> |
 
