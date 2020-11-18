@@ -75,8 +75,7 @@ Hi! I am keen on voluntary activities! 😀
 |6. Beihang Outstanding Graduate (10%)  | 2018 |
 |7. First-class Scholarship for Postgraduate Students (30%) | 2018,2019,2020 |
 |8. Beihang Postgraduate Freshmen Admission Scholarship (5%) | 2018 |
-|9. International Exchange Program Scholarship for Excellent Undergraduates | 2017 |
-|	(from CSC: China Scholarship Council) | |
+|9. International Exchange Program Scholarship for Excellent Undergraduates <br> (from CSC: China Scholarship Council) | 2017 |
 |10. Merit Student of Beihang University | 2015,2016,2017 |
 |11. Beihang Undergraduate Freshmen Admission Scholarship (5%) | 2014 |
 
