@@ -25,8 +25,9 @@ My research interests include <b>cooperative control</b> of <b>multi-agent syste
 <!-- 本人乐观向上、工作认真负责、自我驱动力强，具备较强的团队协作能力、热爱尝试新事物、并乐于助人。 -->
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-After 6.5 years of complete <b>general engineer</b> education, I am proficient in both English and French, possess a solid foundation in mathematics and physics, and have the ability to integrate multiple disciplines. I am optimistic, responsible, and self-motivated, have strong teamwork skills, love to try new things, and willing to help others. You can find my voluntary activities in <a href="https://jianhua-wang-buaa.github.io/Experiences/">Experiences</a>. 
+After 6.5 years of complete <b>general engineer</b> education, I am proficient in both English and French, possess a solid foundation in mathematics and physics, and have the ability to integrate multiple disciplines. Optimistic, responsible, self-motivated, and adventurous, I am also good at teamwork and always willing to help others, and I have participated in many voluntary activities that you can find in <a href="https://jianhua-wang-buaa.github.io/Experiences/">Experiences</a>. 
 </p>
+
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
 If you are interested in my research work or have any questions, don't hesitate to contact me through <a href="https://jianhua-wang-buaa.github.io/cv/">CV&Contact</a> ! 😉
