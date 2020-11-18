@@ -14,7 +14,7 @@ redirect_from:
 My research interests include coopertive control of multi-agent systems, formation tracking control of multi-UAV systems, and reinforcement learning for multi-agent systems. -->
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-Hello! My name is WANG Jianhua. I received my B.E. degree in Mathematics and Applied Mathematics from Beihang University, Beijing, China, in 2018. I am currently a postgraduate student at <a href="http://ecpknen.buaa.edu.cn/">Centrale Pékin</a>, <a href="https://ev.buaa.edu.cn/">Beihang University</a>, under the supervision of <a href="https://www.hanliang.pro/">Prof. HAN Liang</a>, majoring in Automation and Reinforcement Learning.
+Hello! My name is WANG Jianhua. I received my B.S. degree in Mathematics and Applied Mathematics from Beihang University, Beijing, China, in 2018. I am currently a postgraduate student at <a href="http://ecpknen.buaa.edu.cn/">Centrale Pékin</a>, <a href="https://ev.buaa.edu.cn/">Beihang University</a>, under the supervision of <a href="https://www.hanliang.pro/">Prof. HAN Liang</a>, majoring in Automation and Reinforcement Learning.
 My research interests include <b>cooperative control</b> of <b>multi-agent systems</b>, <b>formation tracking control</b> for <b>multi-UAV systems</b>, and <b>reinforcement learning</b>. You can find the research achievements in <a href="https://jianhua-wang-buaa.github.io/Publications/">Publications</a>, <a href="https://jianhua-wang-buaa.github.io/Publications/">Research</a>, and <a href="https://jianhua-wang-buaa.github.io/Publications/">Projects</a>.
 </p>
 
