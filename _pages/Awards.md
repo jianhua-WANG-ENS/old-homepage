@@ -67,10 +67,10 @@ Hi! I am keen on voluntary activities! 😀
 
 -------------
 
-|                   Award Name                   |       Year                   |                 
-| :--------------------------------------------------------- | :--------------------------------------------------------- | 
-| Outstanding Academic Paper Award for Graduate Students (1%)  | 2020 | 
-| National Scholarship for Postgraduate Students (1%)  | 2019 |
+|                   Award Name                   |       Year                   |    test |             
+| :--------------------------------------------------------- | :--------------------------------------------------------- | ----- |
+| Outstanding Academic Paper Award for Graduate Students (1%)  | 2020 | asdf |
+| National Scholarship for Postgraduate Students (1%)  | 2019 | asdf|
 
 
 | Award name       | Year      |
