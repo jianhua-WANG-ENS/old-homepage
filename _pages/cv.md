@@ -13,7 +13,7 @@ redirect_from:
 
 ## CV
 
-My CV can be downloaded here: <a href="https://Li-Jinjie.github.io/files/lijinjieCV-v9-FINAL.pdf" target="_blank">English version</a>
+My CV can be downloaded here: <a href="https://jianhua-WANG-BUAA.github.io/files/CV-Jianhua-EN-V3.pdf" target="_blank">English version</a>
 
 ## Contact
 
