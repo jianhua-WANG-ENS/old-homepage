@@ -25,7 +25,7 @@ Facing the increasing demand for trace explosive detection, the company plans to
 Specific internship content includes three parts:
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-First, learn to use Gazebo virtual simulation software, and construct a trace explosive detection scenario in Gazebo world.
+First, learn to use Gazebo virtual simulation software, and construct a trace explosive detection scenario in the Gazebo world.
 </p>
 
 <p style="text-align:justify; text-justify:inter-ideograph;">

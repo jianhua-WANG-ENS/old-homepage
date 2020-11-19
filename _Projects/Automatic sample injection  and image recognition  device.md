@@ -1,5 +1,5 @@
 ---
-title: "Automatic sample injection and image recognition device"
+title: "Automatic sample injection and result recognition device"
 permalink: /Projects/Automatic-sample-injection-device/
 excerpt: Cooperation with Suzhou Weimu Intelligent System Co., Ltd.  <br/> <a href="https://jianhua-WANG-BUAA.github.io/Projects/Automatic-sample-injection-device/"><img src="https://jianhua-WANG-BUAA.github.io/images/Automatic-sample-injection-device.png" alt="Automatic-sample-injection-device.png" border="0" width="500" /></a>
 collection: Projects
