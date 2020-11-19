@@ -17,7 +17,7 @@ Duration: Jun. 2020 - Now
 <!-- “低慢小”目标一般指的是低空、慢速、小型的飞行器。以典型“低慢小”目标-多旋翼无人机为例，该类无人机制作成本低，体积小，难探测，可远程控制，具备一定负载能力，可搭载摄像头并实时回传高清图像，对公共安全构成了极大威胁。一旦被恐怖分子利用，可实现低空侦查、窥探隐私等非法活动；能够运输违禁品，扰乱航空秩序，实施自杀式攻击等犯罪行为，对首都安全产生了严重影响。为应对“低慢小”目标带来的安全风险，需要在其未进入禁飞区前对其拦截，并通过物理手段将其控制，确保空域安全。 -->
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-With the popularity of small‐sized commercial  Unmanned Aerial Vehicles (UAVs), hostile use of Low, Slow and Small (LSS) UAVs become one of the most intensively developing threats for civilian and military spheres. The LSS UAV is characterized as a low altitude, slow speed, and small radar cross-section (RCS) target and is considered difficult to be detected. The LSS UAVs began to be widely used by militaries and non‐state actors (terrorist, insurgent, criminal, corporate and activist threat groups) all over the world. Therefore, it is urgent to develop new interception technologies for LSS targets.  
+With the popularity of small‐sized commercial  Unmanned Aerial Vehicles (UAVs), hostile use of Low, Slow and Small (LSS) UAVs become one of the most intensively increasing threats for civilian and military spheres. The LSS UAV is characterized as a low altitude, slow speed, and small radar cross-section (RCS) target and is considered difficult to be detected. The LSS UAVs began to be widely used by militaries and non‐state actors (terrorist, insurgent, criminal, corporate and activist threat groups) all over the world. Therefore, it is urgent to develop new interception technologies for LSS targets.  
 </p>
 
 ## Research content
