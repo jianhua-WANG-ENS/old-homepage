@@ -1,7 +1,7 @@
 ---
 title: "Trace explosive detection method based on multi-UAV formation"
 permalink: /Projects/Explosive-detection-RL/
-excerpt: Intership in Suzhou Weimu Intelligent System Co., Ltd. <br/> <a href="https://jianhua-WANG-BUAA.github.io/Projects/Explosive-detection-RL/"><img src="https://jianhua-WANG-BUAA.github.io/images/MFE-UAV-formation-RL.png" alt="MFE-UAV-formation-RL.png" border="0" width="500" /></a>
+excerpt: Internship in Suzhou Weimu Intelligent System Co., Ltd. <br/> <a href="https://jianhua-WANG-BUAA.github.io/Projects/Explosive-detection-RL/"><img src="https://jianhua-WANG-BUAA.github.io/images/MFE-UAV-formation-RL.png" alt="MFE-UAV-formation-RL.png" border="0" width="500" /></a>
 collection: Projects
 date: 2020-11-12
 tags:
@@ -40,13 +40,13 @@ Third, design a multi-UAV intelligent formation control method based on the rein
 
 1. This photo display the scenario of trace explosive detection in Gazebo world. 👇
 
-  <img src="https://jianhua-WANG-BUAA.github.io/images/MFE-UAV-formation-RL.png" alt="MFE-UAV-formation-RL.png" border="0"/>
+    <img src="https://jianhua-WANG-BUAA.github.io/images/MFE-UAV-formation-RL.png" alt="MFE-UAV-formation-RL.png" border="0"/>
 
 2. The following video shows training process of using reinforcement learning algorithms to control a single UAV.
-3. 
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/wzu0CHlsenE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-   
-4. This video indicates the scenario of multi-UAV systems trace explosive detection. 😎
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/wzu0CHlsenE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/wzu0CHlsenE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   
+3. This video indicates the scenario of multi-UAV systems trace explosive detection. 😎
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/wzu0CHlsenE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
