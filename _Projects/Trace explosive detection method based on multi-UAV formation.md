@@ -1,14 +1,14 @@
 ---
 title: "Trace explosive detection method based on multi-UAV formation"
 permalink: /Projects/Explosive-detection-RL/
-excerpt: Internship in Suzhou Weimu Intelligent System Co., Ltd. <br/> <a href="https://jianhua-WANG-BUAA.github.io/Projects/Explosive-detection-RL/"><img src="https://jianhua-WANG-BUAA.github.io/images/MFE-UAV-formation-RL.png" alt="MFE-UAV-formation-RL.png" border="0" width="500" /></a>
+excerpt: Internship at Suzhou Weimu Intelligent System Co., Ltd. <br/> <a href="https://jianhua-WANG-BUAA.github.io/Projects/Explosive-detection-RL/"><img src="https://jianhua-WANG-BUAA.github.io/images/MFE-UAV-formation-RL.png" alt="MFE-UAV-formation-RL.png" border="0" width="500" /></a>
 collection: Projects
 date: 2020-11-12
 tags:
   - projects
 ---
 
-Duration: Aug. 2020 - Now
+Duration: Aug. 2020 - Nov. 2020
 
 Advisor: Xiaoduo LI
 
@@ -29,7 +29,7 @@ First, learn to use Gazebo virtual simulation software, and construct a trace ex
 </p>
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-Second, utilized the reinforcement learning method based on dynamic Q-learning to train the fixed-point tracking algorithm of the single UAV control.
+Second, utilize the reinforcement learning method based on dynamic Q-learning to train the fixed-point tracking algorithm of the single UAV control.
 </p>
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
