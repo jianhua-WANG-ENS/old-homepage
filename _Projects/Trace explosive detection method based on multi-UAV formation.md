@@ -29,11 +29,11 @@ First, learn to use Gazebo virtual simulation software, and construct a trace ex
 </p>
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-Second, use the reinforcement learning method based on dynamic Q-learning to train the fixed-point tracking algorithm of the single UAV control.
+Second, utilized the reinforcement learning method based on dynamic Q-learning to train the fixed-point tracking algorithm of the single UAV control.
 </p>
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-Third, based on the swarm control technology, design a multi-UAV intelligent formation control algorithm to realize the dynamic formation of multiple UAVs, and then use the multi-UAV formation to achieve a larger range of explosive detection. The multi-UAV formation controller based on sliding mode control method and reinforcement learning algorithms are employed on the Gazebo explosives detection scenario, respectively.
+Third, design a multi-UAV intelligent formation control method based on the reinforcement learning algorithm, so as to realize the objective of multi-UAV trace explosive detection in a large area.
 </p>
 
 ## Achievements
