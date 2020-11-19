@@ -25,7 +25,7 @@ Duration: Nov. 2018 - Jun. 2020
 
 <!-- 城市轨道交通作为首都交通网络的中枢神经，对首都经济发展起着重要支撑作用。为进一步提高首都城市轨道交通服务质量，充分发挥多列车协同化运营优势，拟采用多列车编队控制技术来保障多列车高效有序地执行任务。多列车通过虚拟连挂的方式来动态调整它们之间的相对距离，在保证多列车之间安全性的基础上，同时提高了多列车协同运营的效率，避免了传统多列车之间物理连挂，集中式调度控制等问题。 -->
 <p style="text-align:justify; text-justify:inter-ideograph;">
-Urban rail transit systems are of crucial importance for the stability, sustainability, and efficiency of public transportation systems. The number of passengers commuting with urban rail transit systems is more than 10 million per day in big cities, such as Beijing, Shanghai, and Tokyo. During the peak hours, the departure headway between two consecutive services has been recently reduced to 2 min for some busy urban rail transit lines. With the increasing of passenger demand and the saturated operations of trains in urban rail transit lines, it is urgent to explore new train control methods to reduce the consumption of train dispatching during peak hours and improve the efficiency of personnel transportation.
+Urban rail transit systems are of crucial importance for the stability, sustainability, and efficiency of public transportation systems. The number of passengers commuting with urban rail transit systems is more than 10 million per day in big cities, such as Beijing, Shanghai, and Tokyo. During the peak hours, the departure headway between two consecutive services has been recently reduced to 2 min for some busy urban rail transit lines. With the increase of passenger demand and the saturated operations of trains in urban rail transit lines, it is urgent to explore new train control methods to reduce the consumption of train dispatching during peak hours and improve the efficiency of personnel transportation.
 </p>
 
 ## Research content
@@ -41,9 +41,9 @@ This project intends to investigate the dynamic formation control method of mult
 
 In this project, my work mainly includes the following three parts:
 
-1. <p style="text-align:justify; text-justify:inter-ideograph;"> I have investigated the research of cooperative technologies in the field of urban rail transit and participated in the redaction of the project application in the early stage.</p>
-2. <p style="text-align:justify; text-justify:inter-ideograph;">I have designed the multi-train formation tracking control protocols under multiple constraints like switching topologies and time-delays.</p>
-3. <p style="text-align:justify; text-justify:inter-ideograph;">I was responsible for constructing a multi-train formation demonstration platform based on Lego EV3 and Optitrack indoor positioning system.</p>
+1. <p style="text-align:justify; text-justify:inter-ideograph;"> Survey the cooperative technologies in the field of urban rail transit and participate in the redaction of the project application in the early stage.</p>
+2. <p style="text-align:justify; text-justify:inter-ideograph;">Design the multi-train formation tracking control protocols under multiple constraints like switching topologies and time-delays.</p>
+3. <p style="text-align:justify; text-justify:inter-ideograph;">Construct a multi-train formation demonstration platform based on Lego EV3 and Optitrack indoor positioning system.</p>
 
 
 ## Achievements

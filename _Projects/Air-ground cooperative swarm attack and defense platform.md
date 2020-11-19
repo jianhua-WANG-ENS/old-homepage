@@ -29,7 +29,7 @@ robotics communities during the last decade. This is because of its broad range 
 <!-- multi-UAV/UGV swarm attack and defense platform -->
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-Multi-UAV and multi-UGV systems are typical air and ground multi-agent systems. The objective of this project is to develop a multi-UAV/UGV swarm attack and defense platform. The offensive and defensive sides have their own positions on the generated map. Each team will design intelligent cooperative swarm algorithms to control their UAVs and UGVs. More specifically, The players will employ a certain number of UAVs and UGVs to search, identify and destroy opponent's targets. At the same time, they need to intercept the opponent's UAVs and UGVs to protect their command post. The Matlab/Python control interface will be designed and opened to players to control the UAVs and UGVs.
+Multi-UAV and multi-UGV systems are typical air and ground multi-agent systems. The objective of this project is to develop a multi-UAV/UGV swarm attack and defense platform. The offensive and defensive sides have their own positions on the generated map. Each team will design intelligent cooperative swarm algorithms to control their UAVs and UGVs. More specifically, the players will employ a certain number of UAVs and UGVs to search, identify and destroy opponent's targets. At the same time, they need to intercept the opponent's UAVs and UGVs to protect their command post. The Matlab/Python control interface will be designed and opened to players to control the UAVs and UGVs.
 </p>
 
 ## My work
