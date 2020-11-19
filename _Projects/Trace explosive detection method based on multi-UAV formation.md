@@ -38,11 +38,15 @@ Third, design a multi-UAV intelligent formation control method based on the rein
 
 ## Achievements
 
-The following video shows the scene of a coordinated formation of UAVs and UGVs equipped with manipulators. 😎
+1. This photo display the scenario of trace explosive detection in Gazebo world. 👇
+
+  <img src="https://jianhua-WANG-BUAA.github.io/images/MFE-UAV-formation-RL.png" alt="MFE-UAV-formation-RL.png" border="0"/>
+
+2. The following video shows training process of using reinforcement learning algorithms to control a single UAV.
+3. 
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/wzu0CHlsenE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   
+4. This video indicates the scenario of multi-UAV systems trace explosive detection. 😎
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/wzu0CHlsenE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-## Team photo 
-
-  <img src="https://jianhua-WANG-BUAA.github.io/images/MFE-UAV-formation-RL.png" alt="MFE-UAV-formation-RL.png" border="0"/>
