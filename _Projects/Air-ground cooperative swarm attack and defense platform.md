@@ -17,8 +17,8 @@ Duration: Jun. 2019 - Dec. 2019
 <!-- 无人集群具备通过个体间的有效协作涌现出高于个体的群体智能，完成复杂环境下作战任务的能力，是军事装备体系智能化的驱动引擎，也将颠覆未来的作战形态。如何基于群体智能技术进行分布式协同感知及识别、协同认知与决策、协同制导与控制，是提高无人集群分布式协同作战效能的关键所在，也是新一代人工智能的核心研究领域。 -->
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-Distributed cooperative control of multi-agent systems (MASs) has attracted extensive research attention from both control and
-robotics communities during the last decade. This is mainly because of its broad range of applications in areas, such as service robots, exploration of hazardous environments, military surveillance and reconnaissance, search and rescue in disaster sites, spacecraft formation flying. In contrast to deploying individual agents to fulfill various tasks, coordinating a group of autonomous agents to accomplish a common goal offers several benefits, such as scalability, flexibility, adaptivity, low cost of operation and maintenance.
+Distributed cooperative control for multi-agent systems (MASs) has attracted extensive research attention from both control and
+robotics communities during the last decade. This is because of its broad range of applications in areas, such as service robots, exploration of hazardous environments, military surveillance, and spacecraft formation flying. In contrast to deploying individual agents to fulfill various tasks, coordinating a group of autonomous agents to accomplish a common goal offers several benefits, such as scalability, flexibility, adaptivity, and low cost of operation.
 </p>
 
 
@@ -29,8 +29,7 @@ robotics communities during the last decade. This is mainly because of its broad
 <!-- multi-UAV/UGV swarm attack and defense platform -->
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-Multi-UAV and multi-UGV systems are typical examples of multi-agent systems in the air and on the ground. 
-The objective of this project is to develop a multi-UAV/UGV swarm attack and defense platform. The offensive and defensive sides have their own positions on the generated map. The players of participating teams will design intelligent cooperative swarm algorithms to control their UAVs and UGVs. More specifically, The players will employ a certain number of UAVs and UGVs to cooperate with each other to search, identify and destroy stationary and moving targets in the opponent's position, and at the same time to intercept the opponent's UAVs UGVs to protect their command post. The Matlab/Python control interface will be designed and opened to players to control the UAVs and UGVs.
+Multi-UAV and multi-UGV systems are typical air and ground multi-agent systems. The objective of this project is to develop a multi-UAV/UGV swarm attack and defense platform. The offensive and defensive sides have their own positions on the generated map. Each team will design intelligent cooperative swarm algorithms to control their UAVs and UGVs. More specifically, The players will employ a certain number of UAVs and UGVs to search, identify and destroy opponent's targets. At the same time, they need to intercept the opponent's UAVs and UGVs to protect their command post. The Matlab/Python control interface will be designed and opened to players to control the UAVs and UGVs.
 </p>
 
 ## My work
@@ -41,6 +40,6 @@ The objective of this project is to develop a multi-UAV/UGV swarm attack and def
 
 ## Achievements
 
-The demo of the air-ground cooperative countermeasure platform is as follows: 👇
+The demo of the air-ground cooperative countermeasure platform 👇
 
 <iframe width="908" height="511" src="https://www.youtube.com/embed/1x9h_GIftvc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
