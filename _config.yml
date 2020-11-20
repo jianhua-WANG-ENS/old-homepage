@@ -230,7 +230,7 @@ defaults:
       path: ""
       type: Projects
     values:
-      layout: single
+      layout: double
       author_profile: true
       # read_time: false
       share: false
