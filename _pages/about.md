@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /sitemap/
 ---
 
 <img src="https://jianhua-WANG-BUAA.github.io/images/jianhuaWANG-paysage.jpg" alt="jianhuaWANG-paysage.jpg" border="0" />
