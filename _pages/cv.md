@@ -13,7 +13,7 @@ redirect_from:
 
 ## CV
 
-My CV can be downloaded here: <a href="https://jianhua-WANG-BUAA.github.io/files/CV-jianhua-EN-B-V1.pdf" target="_blank">English version</a>, and <a href="https://jianhua-WANG-BUAA.github.io/files/CV-jianhua-FR-B-V1.pdf" target="_blank">French version</a>.
+My CV can be downloaded here: <a href="https://jianhua-WANG-BUAA.github.io/files/CV-jianhua-EN-B-V3.pdf" target="_blank">English version</a>, and <a href="https://jianhua-WANG-BUAA.github.io/files/CV-jianhua-FR-B-V2.pdf" target="_blank">French version</a>.
 
 ## Contact
 
