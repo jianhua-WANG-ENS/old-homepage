@@ -16,6 +16,7 @@ Hi! I am keen on voluntary activities! 😀
 ## 1. Tutor for P2018 freshmen
 
 📍 Sichuan, China
+
 📅Sep. 2018 - Jun. 2019
 
 1. <p style="text-align:justify; text-justify:inter-ideograph;">I organized team-building activities, and provided the advice and guidance on their college life.</p> 
@@ -39,6 +40,7 @@ I was responsible for preparing educational games and picture book reading activ
 ### 2.1 The first time 
 
 📍 Sichuan, China
+
 📅Jul. 2015 - Aug. 2015
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
@@ -55,6 +57,7 @@ With another nine college students from different universities, we carried out a
 ### 2.2 The second time 
 
 📍 Shandong, China
+
 📅Dec. 2015 - Jan. 2016
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
