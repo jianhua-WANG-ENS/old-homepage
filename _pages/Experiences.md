@@ -15,6 +15,9 @@ Hi! I am keen on voluntary activities! 😀
 
 ## 1. Tutor for P2018 freshmen
 
+📍 Sichuan, China
+📅Sep. 2018 - Jun. 2019
+
 1. <p style="text-align:justify; text-justify:inter-ideograph;">I organized team-building activities, and provided the advice and guidance on their college life.</p> 
 2. <p style="text-align:justify; text-justify:inter-ideograph;">I explained how to manipulate the UAV and introduced the basic knowledge of UAV automatic control.</p> 
 
@@ -36,6 +39,7 @@ I was responsible for preparing educational games and picture book reading activ
 ### 2.1 The first time 
 
 📍 Sichuan, China
+📅Jul. 2015 - Aug. 2015
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
 With another nine college students from different universities, we carried out a one-month rural summer camp for secondary school students in Sichuan. 👇
@@ -51,6 +55,7 @@ With another nine college students from different universities, we carried out a
 ### 2.2 The second time 
 
 📍 Shandong, China
+📅Dec. 2015 - Jan. 2016
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
 With another two full-time staff from Enjoy Volunteering and six college students from different universities, we carried out a one-month rural winter camp for students in Shangzhuang Primary School. 👇
@@ -66,6 +71,7 @@ With another two full-time staff from Enjoy Volunteering and six college student
 ### 2.3 The third time 
 
 📍 Shandong, China
+📅Jul. 2016 - Aug. 2016
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
 Six months later, as the team leader, with another eleven college students and three volunteers from Samsung, we organized a follow-up visit to Shangzhuang Primary School. 👇
