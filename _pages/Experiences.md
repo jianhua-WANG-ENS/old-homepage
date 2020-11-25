@@ -12,7 +12,7 @@ author_profile: true
 <!-- 在学习和科研之余，我还参加了很多志愿服务活动。 -->
 
 <p style="text-align:center;">
-<img src="https://jianhua-WANG-BUAA.github.io/images/comptence.png" alt="comptence.png" border="0" width="80"/><font size=3> Hi! I am keen on voluntary activities! </font> <img src="https://jianhua-WANG-BUAA.github.io/images/comptence.png" alt="comptence.png" border="0" width="80"/>
+<img src="https://jianhua-WANG-BUAA.github.io/images/comptence.png" alt="comptence.png" border="0" width="80"/><font size=6> Hi! I am keen on voluntary activities! </font> <img src="https://jianhua-WANG-BUAA.github.io/images/comptence.png" alt="comptence.png" border="0" width="80"/>
 </p>
 
 
