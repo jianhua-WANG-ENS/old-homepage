@@ -11,7 +11,9 @@ author_profile: true
 
 <!-- 在学习和科研之余，我还参加了很多志愿服务活动。 -->
 
-Hi! I am keen on voluntary activities! 😀<img src="https://jianhua-WANG-BUAA.github.io/images/comptence.png" alt="comptence.png" border="0" width="100"/>
+<p style="center">
+<img src="https://jianhua-WANG-BUAA.github.io/images/comptence.png" alt="comptence.png" border="0" width="80"/> Hi! I am keen on voluntary activities! <img src="https://jianhua-WANG-BUAA.github.io/images/comptence.png" alt="comptence.png" border="0" width="80"/>
+</p>
 
 
 ## 1. Tutor for P2018 freshmen
