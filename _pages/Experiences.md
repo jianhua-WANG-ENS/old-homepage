@@ -13,6 +13,8 @@ author_profile: true
 
 Hi! I am keen on voluntary activities! 😀
 
+<img src="https://jianhua-WANG-BUAA.github.io/images/comptence.png" alt="comptence.png" border="0" width="400"/>
+
 ## 1. Tutor for P2018 freshmen
 
 📍 Sichuan, China
