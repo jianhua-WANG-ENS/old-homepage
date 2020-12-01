@@ -44,7 +44,7 @@ Third, design a multi-UAV intelligent formation control method based on the rein
 
 2. The following video shows the training process of using reinforcement learning algorithms to control a single UAV.
 
-     <iframe width="560" height="315" src="https://www.youtube.com/embed/wzu0CHlsenE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/FSwkWUUZqWs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    
 3. This video indicates the scenario of multi-UAV systems formation tracking with four followers to realize the trace explosive detection. 😎
 
