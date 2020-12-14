@@ -13,7 +13,7 @@ author_profile: true
    
    *IET Control Theory & Applications*, 14(14):1947–1956, 2020. 
    
-   [https://ieeexplore.ieee.org/abstract/document/9187339](https://doi.org/10.1049/iet-cta.2020.0183)
+   [https://doi.org/10.1049/iet-cta.2020.0183](https://ieeexplore.ieee.org/abstract/document/9187339)
 
     This video shows the multi-UAV system formation experiments 👇. 
 
