@@ -19,4 +19,4 @@ My CV can be downloaded here: <a href="https://jianhua-WANG-BUAA.github.io/files
 
 📫: Beihang University, No. 37 Xueyuan Road, Haidian District, Beijing, 100191, P.R. China
 
-📧 : jianhuawang@buaa.edu.cn
+📧 : jianhuawang[at]buaa.edu.cn
