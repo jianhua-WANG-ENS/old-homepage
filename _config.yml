@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "WANG Jianhua"
 title_separator          : "-"
 name                     : &name "WANG Jianhua"
-description              : &description "Postgraduate student at Beihang University"
-url                      : https://jianhua-WANG-BUAA.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Phd Student in Statistical Signal Processing applied to Radioastronomy at lab SATIE, ENS-Paris-Saclay"
+url                      : https://jianhua-WANG-ENS.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jianhua-WANG-BUAA/jianhua-WANG-BUAA.github.io"
+repository               : "jianhua-WANG-ENS/jianhua-WANG-ENS.github.io"
 
 teaser                   :  # 悬挂式广告？搞不清干嘛的 filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default) 加了会有个路径栏，丑
@@ -27,7 +27,7 @@ comments:
   disqus:
     shortname            :
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963, e.g.: meta.discourse.org
   facebook:
     appid                :
     num_posts            : # 5 (default)
@@ -84,12 +84,12 @@ analytics:
 author:
   name             : "WANG Jianhua"
   avatar           : "jianhuaWANG-profile.jpg"
-  bio              : "Postgraduate Student, Automation, Centrale Pékin, Beihang University"
-  location         : "Beijing, China"
+  bio              : "Phd Student in Statistical Signal Processing applied to Radioastronomy at lab SATIE, ENS-Paris-Saclay"
+  location         : "Paris, France"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "jianhuawang@buaa.edu.cn"
+  email            : "jianhua.wang@ens-paris-saclay.fr"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,26 +98,26 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jianhua-WANG-BUAA"
+  github           : "jianhua-WANG-ENS"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : 
+  linkedin         : https://www.linkedin.com/in/jianhua-wang-8b7978182/?locale=en_US
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  weixin           : 
+  weixin           :
 
 
 # Reading Files
@@ -253,7 +253,7 @@ defaults:
       author_profile: true
       share: false
       comment: true
- 
+
 
 # Sass/SCSS
 sass:
