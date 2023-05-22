@@ -17,6 +17,6 @@ My CV can be downloaded here: <a href="https://jianhua-WANG-BUAA.github.io/files
 
 ## Contact
 
-📫: Beihang University, No. 37 Xueyuan Road, Haidian District, Beijing, 100191, P.R. China
+📫: SATIE, ENS Paris-Saclay, 4 avenue des Sciences, 91190 Gif-sur-Yvette, France
 
-📧 : jianhuawang[at]buaa.edu.cn
+📧 : jianhua.wang[at]ens-paris-saclay.fr

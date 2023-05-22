@@ -84,11 +84,11 @@ analytics:
 author:
   name             : "WANG Jianhua"
   avatar           : "jianhuaWANG-profile.jpg"
-  bio              : "Phd Student in Statistical Signal Processing applied to Radioastronomy at lab SATIE, ENS-Paris-Saclay"
+  bio              : "Phd Student in Statistical Signal Processing applied to Radioastronomy"
   location         : "Paris, France"
-  employer         :
+  employer         : "SATIE, ENS-Paris-Saclay"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : https://scholar.google.com/citations?user=7slkTBoAAAAJ&hl=en&oi=sra
   email            : "jianhua.wang@ens-paris-saclay.fr"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jianhua-WANG-ENS"
+  github           : # "jianhua-WANG-ENS"
   google_plus      :
   keybase          :
   instagram        :
