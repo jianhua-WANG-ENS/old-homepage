@@ -12,6 +12,7 @@ redirect_from:
 {% include base_path %}
 
 ## CV
+
 Education
 ======
 * Ph.D in Signal Processing of SATIE laboratory in Paris, Paris-Saclay University, 2025 (expected)
