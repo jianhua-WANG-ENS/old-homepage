@@ -53,7 +53,7 @@ The following video shows the scene of a coordinated formation of UAVs and UGVs 
 
 ### 1.4 Team photo 
 
-  <img src="https://jianhua-WANG-BUAA.github.io/images/competition-china-french.jpg" alt="competition-china-french.jpg" border="0"/>
+  <img src="https://jianhua-WANG-ENS.github.io/images/competition-china-french.jpg" alt="competition-china-french.jpg" border="0"/>
 
 ---------------------------
 
@@ -84,5 +84,5 @@ In terms of system architecture, a mosaic open system architecture is adopted to
 The following figure shows the overall structure of the program. 👇
 
 
-<img src="https://jianhua-WANG-BUAA.github.io/images/competition-lijian-cup.png" alt="competition-lijian-cup.png" border="0"/>
+<img src="https://jianhua-WANG-ENS.github.io/images/competition-lijian-cup.png" alt="competition-lijian-cup.png" border="0"/>
 

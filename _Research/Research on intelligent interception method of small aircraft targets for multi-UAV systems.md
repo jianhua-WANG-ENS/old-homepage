@@ -1,7 +1,7 @@
 ---
 title: "Research on intelligent interception method of LSS targets for multi-UAV systems"
 permalink: /Research/LSS-targets/
-excerpt: Application for Beijing Natural Science Foundation. <br/> <a href="https://jianhua-WANG-BUAA.github.io/Research/LSS-targets/"><img src="https://jianhua-WANG-BUAA.github.io/images/LSS-targets-interception.jpg" alt="LSS-targets-interception.jpg" border="0" width="500"/></a>
+excerpt: Application for Beijing Natural Science Foundation. <br/> <a href="https://jianhua-WANG-ENS.github.io/Research/LSS-targets/"><img src="https://jianhua-WANG-ENS.github.io/images/LSS-targets-interception.jpg" alt="LSS-targets-interception.jpg" border="0" width="500"/></a>
 collection: Research
 date: 2020-06-05
 tags:
@@ -41,6 +41,6 @@ With the popularity of small‐sized commercial  Unmanned Aerial Vehicles (UAVs)
 <p style="text-align:justify; text-justify:inter-ideograph;">
 The following picture show the Multi-UAV cluster intelligent interception experiment plan for LSS targets. 👇</p>
 
-<img src="https://jianhua-WANG-BUAA.github.io/images/LSS-experiment-scheme.png" alt="LSS-experiment-scheme.png"/>
+<img src="https://jianhua-WANG-ENS.github.io/images/LSS-experiment-scheme.png" alt="LSS-experiment-scheme.png"/>
    
 

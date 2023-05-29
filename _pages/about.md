@@ -16,5 +16,5 @@ Hello! I am a Phd Student in statistical signal processing applied to radioastro
 </p>
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-I received my B.S. degree in Mathematics and Applied Mathematics from Beihang University, Beijing, China, in 2018. Under the supervision of <a href="https://www.hanliang.pro/">HAN Liang</a>, majoring in Automation and Reinforcement Learning, I received my Master degree in 2021. My Master research interests include <b>cooperative control</b> of <b>multi-agent systems</b>, <b>formation tracking control</b> for <b>multi-UAV systems</b>, and <b>reinforcement learning</b>. You can find more details at my <a href="https://jianhua-wang-buaa.github.io/">last personal homepage</a>.
+I received my B.S. degree in Mathematics and Applied Mathematics from Beihang University, Beijing, China, in 2018. Under the supervision of <a href="https://www.hanliang.pro/">HAN Liang</a>, majoring in Automation and Reinforcement Learning, I received my Master degree in 2021. My Master research interests include <b>cooperative control</b> of <b>multi-agent systems</b>, <b>formation tracking control</b> for <b>multi-UAV systems</b>, and <b>reinforcement learning</b>. You can find more details at my <a href="https://jianhua-wang-ENS.github.io/">last personal homepage</a>.
 </p>

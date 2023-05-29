@@ -1,7 +1,7 @@
 ---
 title: "Automatic sample injection and result recognition device"
 permalink: /Projects/Automatic-sample-injection-device/
-excerpt: Cooperation with Suzhou Weimu Intelligent System Co., Ltd.  <br/> <a href="https://jianhua-WANG-BUAA.github.io/Projects/Automatic-sample-injection-device/"><img src="https://jianhua-WANG-BUAA.github.io/images/Automatic-sample-injection-device.png" alt="Automatic-sample-injection-device.png" border="0" width="500" /></a>
+excerpt: Cooperation with Suzhou Weimu Intelligent System Co., Ltd.  <br/> <a href="https://jianhua-WANG-ENS.github.io/Projects/Automatic-sample-injection-device/"><img src="https://jianhua-WANG-ENS.github.io/images/Automatic-sample-injection-device.png" alt="Automatic-sample-injection-device.png" border="0" width="500" /></a>
 collection: Projects
 date: 2019-05-23
 tags:
@@ -10,7 +10,7 @@ tags:
 
 Duration: Nov. 2018 - Mai. 2019
 
-Company:  [Suzhou Weimu Intelligent System Co., Ltd.](http://www.weimutech.com/) <img src="https://jianhua-WANG-BUAA.github.io/images/logo-SuzhouWeimu.png" alt="logo-SuzhouWeimu.png" border="0" width="300" />
+Company:  [Suzhou Weimu Intelligent System Co., Ltd.](http://www.weimutech.com/) <img src="https://jianhua-WANG-ENS.github.io/images/logo-SuzhouWeimu.png" alt="logo-SuzhouWeimu.png" border="0" width="300" />
 
 Advisor: Liang HAN
 
@@ -23,7 +23,7 @@ Suzhou Weimu is a company that develops explosive trace detection equipment. Fac
 </p>
 
 <p style="text-align:center">
-<img src="https://jianhua-WANG-BUAA.github.io/images/pic-SuzhouWeimu-manuel.png" alt="pic-SuzhouWeimu-manuel.png" border="0" width="500" />
+<img src="https://jianhua-WANG-ENS.github.io/images/pic-SuzhouWeimu-manuel.png" alt="pic-SuzhouWeimu-manuel.png" border="0" width="500" />
 </p>
 
 ## Technical schema
@@ -49,4 +49,4 @@ The video below shows the demo of the automatic sample injection and image r
 
 ## Poster (in French)
 
-  <img src="https://jianhua-WANG-BUAA.github.io/images/pic-poster.jpg" alt="pic-poster.jpg" border="0"/>
+  <img src="https://jianhua-WANG-ENS.github.io/images/pic-poster.jpg" alt="pic-poster.jpg" border="0"/>

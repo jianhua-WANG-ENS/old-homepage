@@ -1,7 +1,7 @@
 ---
 title: "Omnidirectional swarm intelligent robot"
 permalink: /Projects/Omnidirectional-swarm-intelligent-robot/
-excerpt: 👍 We won the **Best Innovation Award** in the "Youth Scientific Innovation Exchanges from China and France"! <br/> <a href="https://jianhua-WANG-BUAA.github.io/Projects/Omnidirectional-swarm-intelligent-robot/"><img src="https://jianhua-WANG-BUAA.github.io/images/Omnidirectional-swarm-intelligent-robot.png" alt="Omnidirectional-swarm-intelligent-robot.png" border="0" width="500" /></a>
+excerpt: 👍 We won the **Best Innovation Award** in the "Youth Scientific Innovation Exchanges from China and France"! <br/> <a href="https://jianhua-WANG-ENS.github.io/Projects/Omnidirectional-swarm-intelligent-robot/"><img src="https://jianhua-WANG-ENS.github.io/images/Omnidirectional-swarm-intelligent-robot.png" alt="Omnidirectional-swarm-intelligent-robot.png" border="0" width="500" /></a>
 collection: Projects
 date: 2019-10-24
 tags:
@@ -42,4 +42,4 @@ The following video shows the scenario of a coordinated formation of UAVs and UG
 
 ## Team photo 
 
-  <img src="https://jianhua-WANG-BUAA.github.io/images/competition-china-french.jpg" alt="competition-china-french.jpg" border="0"/>
+  <img src="https://jianhua-WANG-ENS.github.io/images/competition-china-french.jpg" alt="competition-china-french.jpg" border="0"/>

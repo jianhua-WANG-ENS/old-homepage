@@ -1,7 +1,7 @@
 ---
 title: "Air-ground cooperative swarm attack and defense platform"
 permalink: /Projects/air-ground-confrontation-platform/
-excerpt: Cooperation with China Aerospace Science & Industry Corporation. <br/> <a href="https://jianhua-WANG-BUAA.github.io/Projects/air-ground-confrontation-platform/"><img src="https://jianhua-WANG-BUAA.github.io/images/air-ground-confrontation-platform.png" alt="air-ground-confrontation-platform.png" border="0" width="500" /></a>
+excerpt: Cooperation with China Aerospace Science & Industry Corporation. <br/> <a href="https://jianhua-WANG-ENS.github.io/Projects/air-ground-confrontation-platform/"><img src="https://jianhua-WANG-ENS.github.io/images/air-ground-confrontation-platform.png" alt="air-ground-confrontation-platform.png" border="0" width="500" /></a>
 collection: Projects
 date: 2019-10-10
 tags:

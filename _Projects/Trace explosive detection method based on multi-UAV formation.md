@@ -1,7 +1,7 @@
 ---
 title: "Trace explosive detection method based on multi-UAV formation"
 permalink: /Projects/Explosive-detection-RL/
-excerpt: Internship at Suzhou Weimu Intelligent System Co., Ltd. <br/> <a href="https://jianhua-WANG-BUAA.github.io/Projects/Explosive-detection-RL/"><img src="https://jianhua-WANG-BUAA.github.io/images/MFE-UAV-formation-RL.png" alt="MFE-UAV-formation-RL.png" border="0" width="500" /></a>
+excerpt: Internship at Suzhou Weimu Intelligent System Co., Ltd. <br/> <a href="https://jianhua-WANG-ENS.github.io/Projects/Explosive-detection-RL/"><img src="https://jianhua-WANG-ENS.github.io/images/MFE-UAV-formation-RL.png" alt="MFE-UAV-formation-RL.png" border="0" width="500" /></a>
 collection: Projects
 date: 2020-11-12
 tags:
@@ -40,7 +40,7 @@ Third, design a multi-UAV intelligent formation control method based on the rein
 
 1. This photo displays the scenario of trace explosive detection in Gazebo world. 👇
 
-    <img src="https://jianhua-WANG-BUAA.github.io/images/gazebo_world.png" alt="gazebo_world.png" border="0"/>
+    <img src="https://jianhua-WANG-ENS.github.io/images/gazebo_world.png" alt="gazebo_world.png" border="0"/>
 
 2. The following video shows the training process of using reinforcement learning algorithms to control a single UAV.
 
