@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WANG Jianhua"
+title                    : "WANG, Chian-Hua (Jianhua)"
 title_separator          : "-"
-name                     : &name "WANG Jianhua"
+name                     : &name "WANG, Chian-Hua (Jianhua)"
 description              : &description "Phd Student in Statistical Signal Processing applied to Radioastronomy at lab SATIE, ENS-Paris-Saclay"
 url                      : https://jianhua-WANG-ENS.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "WANG Jianhua"
+  name             : "WANG, Chian-Hua (Jianhua)"
   avatar           : "jianhuaWANG-profile.jpg"
   bio              : "Phd Student in Statistical Signal Processing applied to Radioastronomy"
   location         : "Paris, France"
