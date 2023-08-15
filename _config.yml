@@ -187,7 +187,7 @@ collections:
   Projects:
     output: true
     permalink: /:collection/:path/
-  Awards:
+  EduBackGround:
     output: true
     permalink: /:collection/:path/
   Experiences:
@@ -235,10 +235,10 @@ defaults:
       # read_time: false
       share: false
       comments: false
-  # _Awards
+  # _EduBackGround
   - scope:
       path: ""
-      type: Awards
+      type: EduBackGround
     values:
       layout: single
       author_profile: true
