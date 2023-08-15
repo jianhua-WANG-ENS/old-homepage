@@ -1,24 +1,20 @@
 # main links links
-main: 
+main:
 
   - title: "Publications"
-    url: /Publications/  
+    url: /Publications/
 
   - title: "Research"
-    url: /Research/ 
+    url: /Research/
 
   - title: "Projects"
-    url: /Projects/    
+    url: /Projects/
 
   - title: "Experiences"
     url: /Experiences/
 
-  - title: "Honor&Awards"
-    url: /Awards/
+  - title: "Education Backgrounds"
+    url: /EduBackGround/
 
   - title: "CV&Contact"
     url: /cv/
-    
-  
-    
-

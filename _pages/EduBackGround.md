@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education Backgrounds"
+title: ""
 permalink: /EduBackGround/
 author_profile: true
 ---
