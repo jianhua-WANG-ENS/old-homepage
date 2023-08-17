@@ -72,23 +72,23 @@ This summer woofing experience was a blend of hard work, cultural exchange, and 
     <h1>My Summer Woofing Experience Gallery</h1>
     <div class="image-container">
         <div class="image-box">
-            <img src="images/woofing_graphe_harvest_2.jpg" alt="Grape Harvesting">
+            <img src="../images/woofing_graphe_harvest_2.jpg" alt="Grape Harvesting">
             <p>Early Morning Grape Harvesting</p>
         </div>
         <div class="image-box">
-            <img src="images/woofing_grape_processing.jpg" alt="Grape Processing">
+            <img src="../images/woofing_grape_processing.jpg" alt="Grape Processing">
             <p>Swift Grape Processing</p>
         </div>
         <div class="image-box">
-            <img src="images/woofing_crate_cleaning.jpg" alt="Crate Cleaning">
+            <img src="../images/woofing_crate_cleaning.jpg" alt="Crate Cleaning">
             <p>Thorough Crate Cleaning</p>
         </div>
         <div class="image-box">
-            <img src="images/woofing_cooking_pesto.jpg" alt="Culinary Exploration">
+            <img src="../images/woofing_cooking_pesto.jpg" alt="Culinary Exploration">
             <p>Culinary Exploration</p>
         </div>
         <div class="image-box">
-            <img src="images/woofing_surfing.jpg" alt="Leisure Activities">
+            <img src="../images/woofing_surfing.jpg" alt="Leisure Activities">
             <p>Balancing Work and Leisure</p>
         </div>
     </div>
