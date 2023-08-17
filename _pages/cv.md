@@ -17,16 +17,29 @@ Education
 * Ph.D in Signal Processing of SATIE laboratory in Paris, Paris-Saclay University, 2025 (expected)
 * M.S. degree in Automatic Control in Beijing, Beihang University (BUAA), 2021
 * B.S. degree in Mathematics and Applied Mathematics in Beijing, Beihang University (BUAA), 2018
-
-<details>
+* <details>
   <summary>Classes I Have Followed</summary>
-
-  - Introduction to Programming
-  - Data Structures and Algorithms
-  - Web Development Fundamentals
-  - Machine Learning Basics
-  - Advanced Database Management
+  | Name of course       | Grades (20)      |
+| :----------------- | :---------- |
+| Semestre 7 (Exchange semester in France, ESTACA)         | ---       |
+|:-------------------|-----------:|
+| Heat transfer 1     | 81          |
+| Heat transfer 2     | 92          |
+| Process engineering | 76          |
+| Industrial science  | 97          |
+| Corporate finance   | 96          |
+| Structural mechanics| 104 (A+)    |
+| Applied mechanics   | 78          |
+| Signal processing   | 92          |
+|:-------------------|-----------:|
 </details>
+
+* Exchange student in École supérieure des techniques aéronautiques et de construction automobile (ESTACA), Paris, 2017
+* <details>
+  <summary>Classes I Have Followed</summary>
+</details>
+
+
 
 
 Work experience
