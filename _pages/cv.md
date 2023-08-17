@@ -31,13 +31,10 @@ Education
 | Structural mechanics| 104 (A+)    |
 | Applied mechanics   | 78          |
 | Signal processing   | 92          |
-|:-------------------|-----------:|
-</details>
-
+|:-------------------|-----------:| </details>
 * Exchange student in École supérieure des techniques aéronautiques et de construction automobile (ESTACA), Paris, 2017
 * <details>
-  <summary>Classes I Have Followed</summary>
-</details>
+  <summary>Classes I Have Followed</summary> </details>
 
 
 
