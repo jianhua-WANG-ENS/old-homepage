@@ -18,6 +18,17 @@ Education
 * M.S. degree in Automatic Control in Beijing, Beihang University (BUAA), 2021
 * B.S. degree in Mathematics and Applied Mathematics in Beijing, Beihang University (BUAA), 2018
 
+<details>
+  <summary>Classes I Have Followed</summary>
+
+  - Introduction to Programming
+  - Data Structures and Algorithms
+  - Web Development Fundamentals
+  - Machine Learning Basics
+  - Advanced Database Management
+</details>
+
+
 Work experience
 ======
 * Summer 2015: Research Assistant
